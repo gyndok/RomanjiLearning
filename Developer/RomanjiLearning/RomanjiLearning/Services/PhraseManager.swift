@@ -20,6 +20,10 @@ class PhraseManager {
         phrases.filter(\.isFavorite)
     }
 
+    var userAddedPhrases: [Phrase] {
+        phrases.filter(\.isUserAdded)
+    }
+
     var totalCount: Int { phrases.count }
     var userAddedCount: Int { phrases.filter(\.isUserAdded).count }
     var favoritesCount: Int { favorites.count }
@@ -71,6 +75,11 @@ class PhraseManager {
 
     func addPhrase(_ phrase: Phrase) {
         phrases.append(phrase)
+        savePhrases()
+    }
+
+    func addPhrases(_ newPhrases: [Phrase]) {
+        phrases.append(contentsOf: newPhrases)
         savePhrases()
     }
 

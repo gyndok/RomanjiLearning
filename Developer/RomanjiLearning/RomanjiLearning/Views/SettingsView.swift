@@ -1,10 +1,18 @@
 import SwiftUI
+import UniformTypeIdentifiers
 
 struct SettingsView: View {
     @Environment(PhraseManager.self) private var phraseManager
     @Environment(AudioService.self) private var audioService
     @Environment(ProgressManager.self) private var progressManager
     @Environment(SRSManager.self) private var srsManager
+    @Environment(ImportExportService.self) private var importService
+
+    @State private var isShowingFileImporter = false
+    @State private var exportURL: URL?
+    @State private var templateURL: URL?
+    @State private var isShowingExportShare = false
+    @State private var isShowingTemplateShare = false
 
     var body: some View {
         NavigationStack {
@@ -13,6 +21,7 @@ struct SettingsView: View {
                 srsStatsSection
                 quizStatsSection
                 statisticsSection
+                importExportSection
                 audioSection
                 categorySection
                 scenariosSection
@@ -21,6 +30,52 @@ struct SettingsView: View {
             .scrollContentBackground(.hidden)
             .background(Color.themeBackground.ignoresSafeArea())
             .navigationTitle("Settings")
+            .fileImporter(
+                isPresented: $isShowingFileImporter,
+                allowedContentTypes: [.commaSeparatedText, .json],
+                onCompletion: { result in
+                    switch result {
+                    case .success(let url):
+                        importService.parseFile(at: url, existingPhrases: phraseManager.phrases)
+                    case .failure(let error):
+                        importService.errorMessage = "Failed to open file: \(error.localizedDescription)"
+                    }
+                }
+            )
+            .sheet(isPresented: Binding(
+                get: { importService.isShowingPreview },
+                set: { importService.isShowingPreview = $0 }
+            )) {
+                ImportPreviewView()
+            }
+            .sheet(isPresented: Binding(
+                get: { importService.isShowingResult },
+                set: { importService.isShowingResult = $0 }
+            )) {
+                ImportResultView()
+            }
+            .sheet(isPresented: $isShowingExportShare) {
+                if let url = exportURL {
+                    ActivityViewController(activityItems: [url])
+                }
+            }
+            .sheet(isPresented: $isShowingTemplateShare) {
+                if let url = templateURL {
+                    ActivityViewController(activityItems: [url])
+                }
+            }
+            .alert("Error", isPresented: Binding(
+                get: { importService.errorMessage != nil },
+                set: { if !$0 { importService.errorMessage = nil } }
+            )) {
+                Button("OK") {
+                    importService.errorMessage = nil
+                }
+            } message: {
+                if let msg = importService.errorMessage {
+                    Text(msg)
+                }
+            }
         }
     }
 
@@ -150,6 +205,51 @@ struct SettingsView: View {
             Text("PHRASE LIBRARY")
                 .font(.smallCapsCategory)
                 .tracking(1)
+        }
+    }
+
+    // MARK: - Import / Export
+
+    private var importExportSection: some View {
+        Section {
+            Button {
+                isShowingFileImporter = true
+            } label: {
+                Label("Import Phrases", systemImage: "square.and.arrow.down")
+                    .font(.rounded(.body))
+                    .foregroundStyle(.themeIndigo)
+            }
+
+            if phraseManager.userAddedCount > 0 {
+                Button {
+                    if let url = importService.exportCSV(phrases: phraseManager.userAddedPhrases) {
+                        exportURL = url
+                        isShowingExportShare = true
+                    }
+                } label: {
+                    Label("Export My Phrases (\(phraseManager.userAddedCount))", systemImage: "square.and.arrow.up")
+                        .font(.rounded(.body))
+                        .foregroundStyle(.themeIndigo)
+                }
+            }
+
+            Button {
+                if let url = importService.generateTemplate() {
+                    templateURL = url
+                    isShowingTemplateShare = true
+                }
+            } label: {
+                Label("Download Template", systemImage: "doc.text")
+                    .font(.rounded(.body))
+                    .foregroundStyle(.themeIndigo)
+            }
+        } header: {
+            Text("IMPORT / EXPORT")
+                .font(.smallCapsCategory)
+                .tracking(1)
+        } footer: {
+            Text("Import phrases from CSV or JSON files. Export your custom phrases to share.")
+                .font(.rounded(.caption))
         }
     }
 
@@ -335,4 +435,16 @@ struct OfflineLanguageView: View {
                 .foregroundStyle(.themeText)
         }
     }
+}
+
+// MARK: - Activity View Controller
+
+struct ActivityViewController: UIViewControllerRepresentable {
+    let activityItems: [Any]
+
+    func makeUIViewController(context: Context) -> UIActivityViewController {
+        UIActivityViewController(activityItems: activityItems, applicationActivities: nil)
+    }
+
+    func updateUIViewController(_ uiViewController: UIActivityViewController, context: Context) {}
 }
