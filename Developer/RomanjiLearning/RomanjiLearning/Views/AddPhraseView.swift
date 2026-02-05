@@ -129,12 +129,12 @@ struct AddPhraseView: View {
             .modifier(TranslationPresenter(
                 isPresented: $showTranslationSheet,
                 text: englishText,
-                onResult: { japaneseText = $0 }
+                onResult: { handleTranslationResult($0) }
             ))
             .modifier(SessionTranslationModifier(
                 config: $translationConfig,
                 sourceText: englishText,
-                onResult: { japaneseText = $0 }
+                onResult: { handleTranslationResult($0) }
             ))
             .overlay {
                 if showConfirmation {
@@ -157,6 +157,12 @@ struct AddPhraseView: View {
         } else {
             showTranslationSheet = true
         }
+    }
+
+    private func handleTranslationResult(_ japanese: String) {
+        japaneseText = japanese
+        // Automatically generate romaji from the Japanese text
+        romajiText = RomajiConverter.convert(japanese)
     }
 
     // MARK: - Add Phrase
