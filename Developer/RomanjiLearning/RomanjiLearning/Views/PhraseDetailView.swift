@@ -61,10 +61,16 @@ struct PhraseDetailView: View {
 
     private func headerCard(_ phrase: Phrase) -> some View {
         VStack(spacing: 16) {
-            Text(phrase.japanese)
-                .font(.japanese(size: 36))
-                .foregroundStyle(.themeText)
-                .multilineTextAlignment(.center)
+            TappableJapaneseText(
+                text: phrase.japanese,
+                fontSize: 36,
+                contextPhrase: phrase.japanese
+            )
+            .frame(maxWidth: .infinity)
+
+            Text("Tap any word for its meaning")
+                .font(.rounded(.caption2))
+                .foregroundStyle(.themeTextSecondary.opacity(0.7))
 
             Text(phrase.romaji)
                 .font(.romaji(size: 18))

@@ -8,6 +8,7 @@ struct RomanjiLearningApp: App {
     @State private var progressManager = ProgressManager()
     @State private var srsManager = SRSManager()
     @State private var importExportService = ImportExportService()
+    @State private var dictionaryService = DictionaryService()
     @AppStorage("hasSeenOnboarding") private var hasSeenOnboarding = false
 
     var body: some Scene {
@@ -25,6 +26,7 @@ struct RomanjiLearningApp: App {
             .environment(progressManager)
             .environment(srsManager)
             .environment(importExportService)
+            .environment(dictionaryService)
             .tint(.themeSakura)
             .onOpenURL { url in
                 importExportService.parseFile(at: url, existingPhrases: phraseManager.phrases)

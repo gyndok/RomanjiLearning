@@ -329,10 +329,11 @@ struct FlashcardView: View {
 
             Spacer()
 
-            Text(phrase.japanese)
-                .font(.japanese(size: 32))
-                .foregroundStyle(.themeText)
-                .multilineTextAlignment(.center)
+            TappableJapaneseText(
+                text: phrase.japanese,
+                fontSize: 32,
+                contextPhrase: phrase.japanese
+            )
 
             Text(phrase.romaji)
                 .font(.romaji(size: 18))
