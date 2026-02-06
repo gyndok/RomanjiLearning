@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		44FB9F682F3664F3001C9FBA /* SplashScreenView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 44FB9F672F3664F3001C9FBA /* SplashScreenView.swift */; };
 		A100000000000000000001 /* RomanjiLearningApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = B100000000000000000001 /* RomanjiLearningApp.swift */; };
 		A100000000000000000002 /* Phrase.swift in Sources */ = {isa = PBXBuildFile; fileRef = B100000000000000000002 /* Phrase.swift */; };
 		A100000000000000000003 /* MainTabView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B100000000000000000003 /* MainTabView.swift */; };
@@ -44,6 +45,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		44FB9F672F3664F3001C9FBA /* SplashScreenView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SplashScreenView.swift; sourceTree = "<group>"; };
 		B100000000000000000001 /* RomanjiLearningApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RomanjiLearningApp.swift; sourceTree = "<group>"; };
 		B100000000000000000002 /* Phrase.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Phrase.swift; sourceTree = "<group>"; };
 		B100000000000000000003 /* MainTabView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainTabView.swift; sourceTree = "<group>"; };
@@ -113,6 +115,7 @@
 				C100000000000000000007 /* Resources */,
 				B100000000000000000011 /* Assets.xcassets */,
 				C100000000000000000008 /* Preview Content */,
+				44FB9F672F3664F3001C9FBA /* SplashScreenView.swift */,
 			);
 			path = RomanjiLearning;
 			sourceTree = "<group>";
@@ -278,6 +281,7 @@
 				A100000000000000000016 /* ScenarioDeck.swift in Sources */,
 				A100000000000000000017 /* ProgressManager.swift in Sources */,
 				A100000000000000000018 /* QuizView.swift in Sources */,
+				44FB9F682F3664F3001C9FBA /* SplashScreenView.swift in Sources */,
 				A100000000000000000019 /* ScenarioListView.swift in Sources */,
 				A100000000000000000020 /* StudyProgressView.swift in Sources */,
 				A100000000000000000021 /* QuizManager.swift in Sources */,

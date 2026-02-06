@@ -23,7 +23,7 @@ struct FlashcardView: View {
 
     private var cards: [Phrase] {
         switch deckFilter {
-        case .all: return phraseManager.phrases
+        case .all: return srsManager.getDueCards(from: phraseManager.phrases)
         case .favorites: return phraseManager.favorites
         case .dueForReview: return progressManager.phrasesForReview(from: phraseManager.phrases)
         case .category: return phraseManager.filteredPhrases
@@ -389,7 +389,13 @@ struct FlashcardView: View {
 
             Button {
                 progressManager.recordReview(phraseID: phrase.id, correct: true)
-                goToNext()
+                srsManager.recordReview(phraseId: phrase.id.uuidString, rating: .good)
+                withAnimation(.spring(duration: 0.3)) {
+                    isFlipped = false
+                    if currentIndex >= cards.count {
+                        currentIndex = max(0, cards.count - 1)
+                    }
+                }
             } label: {
                 Label("Know It", systemImage: "checkmark")
                     .font(.rounded(.subheadline, weight: .medium))
