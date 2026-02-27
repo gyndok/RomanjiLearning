@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+  <key>Label</key>
+  <string>com.gyndok.japan-trip-countdown</string>
+
+  <key>ProgramArguments</key>
+  <array>
+    <string>/Library/Frameworks/Python.framework/Versions/3.13/bin/python3</string>
+    <string>/Users/gyndok/japan-trip-countdown/japan_trip_countdown.py</string>
+  </array>
+
+  <key>RunAtLoad</key>
+  <true/>
+
+  <key>KeepAlive</key>
+  <true/>
+
+  <key>WorkingDirectory</key>
+  <string>/Users/gyndok/japan-trip-countdown</string>
+
+  <key>StandardOutPath</key>
+  <string>/Users/gyndok/.config/japan-countdown/launchd.out.log</string>
+  <key>StandardErrorPath</key>
+  <string>/Users/gyndok/.config/japan-countdown/launchd.err.log</string>
+</dict>
+</plist>
