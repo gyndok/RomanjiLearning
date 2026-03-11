@@ -4,6 +4,7 @@ struct SRSStudyView: View {
     @Environment(PhraseManager.self) private var phraseManager
     @Environment(SRSManager.self) private var srsManager
     @Environment(AudioService.self) private var audioService
+    @Environment(ProgressManager.self) private var progressManager
 
     @State private var dueCards: [Phrase] = []
     @State private var currentIndex = 0
@@ -162,6 +163,7 @@ struct SRSStudyView: View {
     private func srsRatingButton(_ rating: SRSRating, color: Color, for phrase: Phrase) -> some View {
         Button {
             srsManager.recordReview(phraseId: phrase.id.uuidString, rating: rating)
+            progressManager.recordReview(phraseID: phrase.id, correct: rating != .again)
             goToNext()
         } label: {
             VStack(spacing: 4) {
