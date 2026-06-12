@@ -1,0 +1,4002 @@
+[
+  {
+    "english": "Hello",
+    "japanese": "こんにちは",
+    "romaji": "Konnichiwa",
+    "category": "Greetings & Basics",
+    "difficulty": 1,
+    "context": "Standard daytime greeting"
+  },
+  {
+    "english": "Good morning",
+    "japanese": "おはようございます",
+    "romaji": "Ohayou gozaimasu",
+    "category": "Greetings & Basics",
+    "difficulty": 1,
+    "context": "Polite morning greeting; casual: おはよう"
+  },
+  {
+    "english": "Good evening",
+    "japanese": "こんばんは",
+    "romaji": "Konbanwa",
+    "category": "Greetings & Basics",
+    "difficulty": 1,
+    "context": "Used after sunset"
+  },
+  {
+    "english": "Good night",
+    "japanese": "おやすみなさい",
+    "romaji": "Oyasumi nasai",
+    "category": "Greetings & Basics",
+    "difficulty": 1,
+    "context": "Said when parting at night or going to bed"
+  },
+  {
+    "english": "Goodbye",
+    "japanese": "さようなら",
+    "romaji": "Sayounara",
+    "category": "Greetings & Basics",
+    "difficulty": 1,
+    "context": "Formal farewell; implies longer separation"
+  },
+  {
+    "english": "See you later",
+    "japanese": "またね",
+    "romaji": "Mata ne",
+    "category": "Greetings & Basics",
+    "difficulty": 1,
+    "context": "Casual farewell among friends"
+  },
+  {
+    "english": "See you tomorrow",
+    "japanese": "また明日",
+    "romaji": "Mata ashita",
+    "category": "Greetings & Basics",
+    "difficulty": 2,
+    "context": "Casual farewell when meeting again tomorrow"
+  },
+  {
+    "english": "Please (requesting)",
+    "japanese": "お願いします",
+    "romaji": "Onegai shimasu",
+    "category": "Greetings & Basics",
+    "difficulty": 1,
+    "context": "Used when making requests"
+  },
+  {
+    "english": "Please (offering)",
+    "japanese": "どうぞ",
+    "romaji": "Douzo",
+    "category": "Greetings & Basics",
+    "difficulty": 1,
+    "context": "Used when offering something or inviting someone"
+  },
+  {
+    "english": "Thank you",
+    "japanese": "ありがとうございます",
+    "romaji": "Arigatou gozaimasu",
+    "category": "Greetings & Basics",
+    "difficulty": 1,
+    "context": "Polite thank you; use in most situations"
+  },
+  {
+    "english": "Thank you (casual)",
+    "japanese": "ありがとう",
+    "romaji": "Arigatou",
+    "category": "Greetings & Basics",
+    "difficulty": 1,
+    "context": "Casual thank you among friends"
+  },
+  {
+    "english": "Thank you very much",
+    "japanese": "どうもありがとうございます",
+    "romaji": "Doumo arigatou gozaimasu",
+    "category": "Greetings & Basics",
+    "difficulty": 2,
+    "context": "Extra polite thank you"
+  },
+  {
+    "english": "You're welcome",
+    "japanese": "どういたしまして",
+    "romaji": "Dou itashimashite",
+    "category": "Greetings & Basics",
+    "difficulty": 1,
+    "context": "Standard response to thanks"
+  },
+  {
+    "english": "Excuse me / Sorry",
+    "japanese": "すみません",
+    "romaji": "Sumimasen",
+    "category": "Greetings & Basics",
+    "difficulty": 1,
+    "context": "Versatile: gets attention, apologizes, or thanks"
+  },
+  {
+    "english": "I'm sorry",
+    "japanese": "ごめんなさい",
+    "romaji": "Gomen nasai",
+    "category": "Greetings & Basics",
+    "difficulty": 1,
+    "context": "Apology; slightly more personal than sumimasen"
+  },
+  {
+    "english": "Yes",
+    "japanese": "はい",
+    "romaji": "Hai",
+    "category": "Greetings & Basics",
+    "difficulty": 1,
+    "context": "Polite yes; also used to show you're listening"
+  },
+  {
+    "english": "No",
+    "japanese": "いいえ",
+    "romaji": "Iie",
+    "category": "Greetings & Basics",
+    "difficulty": 1,
+    "context": "Polite no"
+  },
+  {
+    "english": "I understand",
+    "japanese": "わかりました",
+    "romaji": "Wakarimashita",
+    "category": "Greetings & Basics",
+    "difficulty": 1,
+    "context": "Confirms comprehension"
+  },
+  {
+    "english": "I don't understand",
+    "japanese": "わかりません",
+    "romaji": "Wakarimasen",
+    "category": "Greetings & Basics",
+    "difficulty": 1,
+    "context": "Essential when communication breaks down"
+  },
+  {
+    "english": "It's OK / I'm fine",
+    "japanese": "大丈夫です",
+    "romaji": "Daijoubu desu",
+    "category": "Greetings & Basics",
+    "difficulty": 1,
+    "context": "Versatile: reassurance, declining, confirming"
+  },
+  {
+    "english": "No problem",
+    "japanese": "問題ありません",
+    "romaji": "Mondai arimasen",
+    "category": "Greetings & Basics",
+    "difficulty": 2,
+    "context": "Reassuring someone there's no issue"
+  },
+  {
+    "english": "Just a moment, please",
+    "japanese": "ちょっと待ってください",
+    "romaji": "Chotto matte kudasai",
+    "category": "Greetings & Basics",
+    "difficulty": 1,
+    "context": "Asking someone to wait briefly"
+  },
+  {
+    "english": "What? / Pardon?",
+    "japanese": "何ですか？",
+    "romaji": "Nan desu ka?",
+    "category": "Greetings & Basics",
+    "difficulty": 1,
+    "context": "Politely asking someone to repeat"
+  },
+  {
+    "english": "Really?",
+    "japanese": "本当ですか？",
+    "romaji": "Hontou desu ka?",
+    "category": "Greetings & Basics",
+    "difficulty": 2,
+    "context": "Expressing surprise or seeking confirmation"
+  },
+  {
+    "english": "Of course",
+    "japanese": "もちろん",
+    "romaji": "Mochiron",
+    "category": "Greetings & Basics",
+    "difficulty": 2,
+    "context": "Affirming something enthusiastically"
+  },
+  {
+    "english": "Maybe",
+    "japanese": "多分",
+    "romaji": "Tabun",
+    "category": "Greetings & Basics",
+    "difficulty": 2,
+    "context": "Expressing uncertainty"
+  },
+  {
+    "english": "That's right",
+    "japanese": "そうです",
+    "romaji": "Sou desu",
+    "category": "Greetings & Basics",
+    "difficulty": 1,
+    "context": "Confirming a statement"
+  },
+  {
+    "english": "That's wrong / different",
+    "japanese": "違います",
+    "romaji": "Chigaimasu",
+    "category": "Greetings & Basics",
+    "difficulty": 2,
+    "context": "Politely correcting a misunderstanding"
+  },
+  {
+    "english": "Nice to meet you",
+    "japanese": "はじめまして",
+    "romaji": "Hajimemashite",
+    "category": "Greetings & Basics",
+    "difficulty": 1,
+    "context": "Said at first meeting, before yoroshiku"
+  },
+  {
+    "english": "Pleased to meet you",
+    "japanese": "よろしくお願いします",
+    "romaji": "Yoroshiku onegai shimasu",
+    "category": "Greetings & Basics",
+    "difficulty": 1,
+    "context": "Essential closing to self-introductions"
+  },
+  {
+    "english": "Welcome",
+    "japanese": "ようこそ",
+    "romaji": "Youkoso",
+    "category": "Greetings & Basics",
+    "difficulty": 2,
+    "context": "You'll hear this at hotels, shops, Japan arrival"
+  },
+  {
+    "english": "How are you?",
+    "japanese": "お元気ですか？",
+    "romaji": "Ogenki desu ka?",
+    "category": "Greetings & Basics",
+    "difficulty": 2,
+    "context": "Less common than in English; used after not seeing someone"
+  },
+  {
+    "english": "I'm fine",
+    "japanese": "元気です",
+    "romaji": "Genki desu",
+    "category": "Greetings & Basics",
+    "difficulty": 2,
+    "context": "Response to ogenki desu ka"
+  },
+  {
+    "english": "Take care",
+    "japanese": "お気をつけて",
+    "romaji": "Oki wo tsukete",
+    "category": "Greetings & Basics",
+    "difficulty": 2,
+    "context": "Said when someone is leaving on a trip"
+  },
+  {
+    "english": "Cheers! (toast)",
+    "japanese": "乾杯！",
+    "romaji": "Kanpai!",
+    "category": "Greetings & Basics",
+    "difficulty": 1,
+    "context": "Said before drinking together"
+  },
+  {
+    "english": "No, thank you",
+    "japanese": "いいえ、結構です",
+    "romaji": "Iie, kekkou desu",
+    "category": "Greetings & Basics",
+    "difficulty": 2,
+    "context": "Politely declining an offer"
+  },
+  {
+    "english": "Let me think",
+    "japanese": "考えさせてください",
+    "romaji": "Kangaesasete kudasai",
+    "category": "Greetings & Basics",
+    "difficulty": 3,
+    "context": "Buying time before deciding"
+  },
+  {
+    "english": "I'll do my best",
+    "japanese": "頑張ります",
+    "romaji": "Ganbarimasu",
+    "category": "Greetings & Basics",
+    "difficulty": 2,
+    "context": "Showing determination; common encouragement"
+  },
+  {
+    "english": "Have a good day",
+    "japanese": "良い一日を",
+    "romaji": "Yoi ichinichi wo",
+    "category": "Greetings & Basics",
+    "difficulty": 3,
+    "context": "Less common in Japanese than English"
+  },
+  {
+    "english": "Congratulations",
+    "japanese": "おめでとうございます",
+    "romaji": "Omedetou gozaimasu",
+    "category": "Greetings & Basics",
+    "difficulty": 2,
+    "context": "For celebrations and achievements"
+  },
+  {
+    "english": "My name is [name]",
+    "japanese": "私の名前は[name]です",
+    "romaji": "Watashi no namae wa [name] desu",
+    "category": "Self-Introduction",
+    "difficulty": 1,
+    "context": "Basic self-introduction; replace [name]"
+  },
+  {
+    "english": "I'm American",
+    "japanese": "アメリカ人です",
+    "romaji": "Amerikajin desu",
+    "category": "Self-Introduction",
+    "difficulty": 1,
+    "context": "Stating nationality"
+  },
+  {
+    "english": "I'm from America",
+    "japanese": "アメリカから来ました",
+    "romaji": "Amerika kara kimashita",
+    "category": "Self-Introduction",
+    "difficulty": 1,
+    "context": "Stating where you came from"
+  },
+  {
+    "english": "I don't speak Japanese",
+    "japanese": "日本語が話せません",
+    "romaji": "Nihongo ga hanasemasen",
+    "category": "Self-Introduction",
+    "difficulty": 1,
+    "context": "Essential for setting expectations"
+  },
+  {
+    "english": "I speak a little Japanese",
+    "japanese": "日本語が少し話せます",
+    "romaji": "Nihongo ga sukoshi hanasemasu",
+    "category": "Self-Introduction",
+    "difficulty": 1,
+    "context": "Shows effort; locals appreciate it"
+  },
+  {
+    "english": "Do you speak English?",
+    "japanese": "英語を話せますか？",
+    "romaji": "Eigo wo hanasemasu ka?",
+    "category": "Self-Introduction",
+    "difficulty": 1,
+    "context": "Finding English speakers for help"
+  },
+  {
+    "english": "Is English OK?",
+    "japanese": "英語は大丈夫ですか？",
+    "romaji": "Eigo wa daijoubu desu ka?",
+    "category": "Self-Introduction",
+    "difficulty": 1,
+    "context": "Casual way to ask about English ability"
+  },
+  {
+    "english": "I'm a tourist",
+    "japanese": "観光客です",
+    "romaji": "Kankoukyaku desu",
+    "category": "Self-Introduction",
+    "difficulty": 1,
+    "context": "Explaining why you're visiting"
+  },
+  {
+    "english": "I'm here on vacation",
+    "japanese": "休暇で来ました",
+    "romaji": "Kyuuka de kimashita",
+    "category": "Self-Introduction",
+    "difficulty": 2,
+    "context": "Explaining purpose of visit"
+  },
+  {
+    "english": "I'm here for business",
+    "japanese": "出張で来ました",
+    "romaji": "Shutchou de kimashita",
+    "category": "Self-Introduction",
+    "difficulty": 3,
+    "context": "For business travelers"
+  },
+  {
+    "english": "I'm traveling alone",
+    "japanese": "一人旅です",
+    "romaji": "Hitoritabi desu",
+    "category": "Self-Introduction",
+    "difficulty": 2,
+    "context": "Useful at restaurants and hotels"
+  },
+  {
+    "english": "I'm traveling with my family",
+    "japanese": "家族と旅行しています",
+    "romaji": "Kazoku to ryokou shite imasu",
+    "category": "Self-Introduction",
+    "difficulty": 2,
+    "context": "Explaining group composition"
+  },
+  {
+    "english": "This is my first time in Japan",
+    "japanese": "日本は初めてです",
+    "romaji": "Nihon wa hajimete desu",
+    "category": "Self-Introduction",
+    "difficulty": 1,
+    "context": "Great conversation starter; locals will be helpful"
+  },
+  {
+    "english": "I'm staying for [X] days",
+    "japanese": "[X]日間滞在します",
+    "romaji": "[X]-nichikan taizai shimasu",
+    "category": "Self-Introduction",
+    "difficulty": 2,
+    "context": "Replace [X] with number"
+  },
+  {
+    "english": "I'm staying at [hotel]",
+    "japanese": "[hotel]に泊まっています",
+    "romaji": "[hotel] ni tomatte imasu",
+    "category": "Self-Introduction",
+    "difficulty": 2,
+    "context": "Useful for taxi drivers, giving context"
+  },
+  {
+    "english": "Please speak slowly",
+    "japanese": "ゆっくり話してください",
+    "romaji": "Yukkuri hanashite kudasai",
+    "category": "Self-Introduction",
+    "difficulty": 1,
+    "context": "Essential when you catch some Japanese"
+  },
+  {
+    "english": "Please write it down",
+    "japanese": "書いてください",
+    "romaji": "Kaite kudasai",
+    "category": "Self-Introduction",
+    "difficulty": 1,
+    "context": "Helpful for addresses, station names"
+  },
+  {
+    "english": "I don't understand Japanese",
+    "japanese": "日本語がわかりません",
+    "romaji": "Nihongo ga wakarimasen",
+    "category": "Self-Introduction",
+    "difficulty": 1,
+    "context": "Alternative to hanasemasen; emphasizes comprehension"
+  },
+  {
+    "english": "I love Japan",
+    "japanese": "日本が大好きです",
+    "romaji": "Nihon ga daisuki desu",
+    "category": "Self-Introduction",
+    "difficulty": 2,
+    "context": "Compliment that locals appreciate hearing"
+  },
+  {
+    "english": "I'm studying Japanese",
+    "japanese": "日本語を勉強しています",
+    "romaji": "Nihongo wo benkyou shite imasu",
+    "category": "Self-Introduction",
+    "difficulty": 2,
+    "context": "Shows respect for the language and culture"
+  },
+  {
+    "english": "Where is...?",
+    "japanese": "…はどこですか？",
+    "romaji": "...wa doko desu ka?",
+    "category": "Directions & Navigation",
+    "difficulty": 1,
+    "context": "Most essential direction question"
+  },
+  {
+    "english": "How do I get to...?",
+    "japanese": "…にはどうやって行きますか？",
+    "romaji": "...ni wa douyatte ikimasu ka?",
+    "category": "Directions & Navigation",
+    "difficulty": 1,
+    "context": "Asking for route guidance"
+  },
+  {
+    "english": "Left",
+    "japanese": "左",
+    "romaji": "Hidari",
+    "category": "Directions & Navigation",
+    "difficulty": 1,
+    "context": "Basic direction"
+  },
+  {
+    "english": "Right",
+    "japanese": "右",
+    "romaji": "Migi",
+    "category": "Directions & Navigation",
+    "difficulty": 1,
+    "context": "Basic direction"
+  },
+  {
+    "english": "Straight ahead",
+    "japanese": "まっすぐ",
+    "romaji": "Massugu",
+    "category": "Directions & Navigation",
+    "difficulty": 1,
+    "context": "Keep going forward"
+  },
+  {
+    "english": "Turn left",
+    "japanese": "左に曲がってください",
+    "romaji": "Hidari ni magatte kudasai",
+    "category": "Directions & Navigation",
+    "difficulty": 1,
+    "context": "Direction instruction"
+  },
+  {
+    "english": "Turn right",
+    "japanese": "右に曲がってください",
+    "romaji": "Migi ni magatte kudasai",
+    "category": "Directions & Navigation",
+    "difficulty": 1,
+    "context": "Direction instruction"
+  },
+  {
+    "english": "Go straight, then turn left",
+    "japanese": "まっすぐ行って、左に曲がってください",
+    "romaji": "Massugu itte, hidari ni magatte kudasai",
+    "category": "Directions & Navigation",
+    "difficulty": 2,
+    "context": "Combined direction"
+  },
+  {
+    "english": "Near / Close",
+    "japanese": "近い",
+    "romaji": "Chikai",
+    "category": "Directions & Navigation",
+    "difficulty": 1,
+    "context": "Describing proximity"
+  },
+  {
+    "english": "Far",
+    "japanese": "遠い",
+    "romaji": "Tooi",
+    "category": "Directions & Navigation",
+    "difficulty": 1,
+    "context": "Describing distance"
+  },
+  {
+    "english": "Is it far from here?",
+    "japanese": "ここから遠いですか？",
+    "romaji": "Koko kara tooi desu ka?",
+    "category": "Directions & Navigation",
+    "difficulty": 1,
+    "context": "Gauging walkability"
+  },
+  {
+    "english": "Can I walk there?",
+    "japanese": "歩いて行けますか？",
+    "romaji": "Aruite ikemasu ka?",
+    "category": "Directions & Navigation",
+    "difficulty": 1,
+    "context": "Important for trip planning"
+  },
+  {
+    "english": "Where is the station?",
+    "japanese": "駅はどこですか？",
+    "romaji": "Eki wa doko desu ka?",
+    "category": "Directions & Navigation",
+    "difficulty": 1,
+    "context": "Finding train stations"
+  },
+  {
+    "english": "Where is the bathroom?",
+    "japanese": "トイレはどこですか？",
+    "romaji": "Toire wa doko desu ka?",
+    "category": "Directions & Navigation",
+    "difficulty": 1,
+    "context": "Universal necessity"
+  },
+  {
+    "english": "Where is the exit?",
+    "japanese": "出口はどこですか？",
+    "romaji": "Deguchi wa doko desu ka?",
+    "category": "Directions & Navigation",
+    "difficulty": 1,
+    "context": "Navigating stations and buildings"
+  },
+  {
+    "english": "Where is the entrance?",
+    "japanese": "入口はどこですか？",
+    "romaji": "Iriguchi wa doko desu ka?",
+    "category": "Directions & Navigation",
+    "difficulty": 1,
+    "context": "Finding building entrances"
+  },
+  {
+    "english": "North",
+    "japanese": "北",
+    "romaji": "Kita",
+    "category": "Directions & Navigation",
+    "difficulty": 2,
+    "context": "Cardinal direction"
+  },
+  {
+    "english": "South",
+    "japanese": "南",
+    "romaji": "Minami",
+    "category": "Directions & Navigation",
+    "difficulty": 2,
+    "context": "Cardinal direction"
+  },
+  {
+    "english": "East",
+    "japanese": "東",
+    "romaji": "Higashi",
+    "category": "Directions & Navigation",
+    "difficulty": 2,
+    "context": "Cardinal direction"
+  },
+  {
+    "english": "West",
+    "japanese": "西",
+    "romaji": "Nishi",
+    "category": "Directions & Navigation",
+    "difficulty": 2,
+    "context": "Cardinal direction"
+  },
+  {
+    "english": "Intersection",
+    "japanese": "交差点",
+    "romaji": "Kousaten",
+    "category": "Directions & Navigation",
+    "difficulty": 2,
+    "context": "Common landmark in directions"
+  },
+  {
+    "english": "Traffic light",
+    "japanese": "信号",
+    "romaji": "Shingou",
+    "category": "Directions & Navigation",
+    "difficulty": 2,
+    "context": "Common landmark in directions"
+  },
+  {
+    "english": "Corner",
+    "japanese": "角",
+    "romaji": "Kado",
+    "category": "Directions & Navigation",
+    "difficulty": 2,
+    "context": "At the corner of a street"
+  },
+  {
+    "english": "Bridge",
+    "japanese": "橋",
+    "romaji": "Hashi",
+    "category": "Directions & Navigation",
+    "difficulty": 3,
+    "context": "Landmark for directions"
+  },
+  {
+    "english": "In front of",
+    "japanese": "前",
+    "romaji": "Mae",
+    "category": "Directions & Navigation",
+    "difficulty": 2,
+    "context": "Relative position"
+  },
+  {
+    "english": "Behind / In back of",
+    "japanese": "後ろ",
+    "romaji": "Ushiro",
+    "category": "Directions & Navigation",
+    "difficulty": 2,
+    "context": "Relative position"
+  },
+  {
+    "english": "Next to",
+    "japanese": "隣",
+    "romaji": "Tonari",
+    "category": "Directions & Navigation",
+    "difficulty": 2,
+    "context": "Relative position"
+  },
+  {
+    "english": "Across from / Opposite",
+    "japanese": "向かい",
+    "romaji": "Mukai",
+    "category": "Directions & Navigation",
+    "difficulty": 2,
+    "context": "Relative position"
+  },
+  {
+    "english": "Between",
+    "japanese": "間",
+    "romaji": "Aida",
+    "category": "Directions & Navigation",
+    "difficulty": 3,
+    "context": "Relative position"
+  },
+  {
+    "english": "Inside",
+    "japanese": "中",
+    "romaji": "Naka",
+    "category": "Directions & Navigation",
+    "difficulty": 2,
+    "context": "Relative position"
+  },
+  {
+    "english": "Outside",
+    "japanese": "外",
+    "romaji": "Soto",
+    "category": "Directions & Navigation",
+    "difficulty": 2,
+    "context": "Relative position"
+  },
+  {
+    "english": "Here",
+    "japanese": "ここ",
+    "romaji": "Koko",
+    "category": "Directions & Navigation",
+    "difficulty": 1,
+    "context": "This location"
+  },
+  {
+    "english": "There",
+    "japanese": "そこ",
+    "romaji": "Soko",
+    "category": "Directions & Navigation",
+    "difficulty": 1,
+    "context": "That location (near listener)"
+  },
+  {
+    "english": "Over there",
+    "japanese": "あそこ",
+    "romaji": "Asoko",
+    "category": "Directions & Navigation",
+    "difficulty": 1,
+    "context": "That location (far from both)"
+  },
+  {
+    "english": "Map",
+    "japanese": "地図",
+    "romaji": "Chizu",
+    "category": "Directions & Navigation",
+    "difficulty": 2,
+    "context": "Asking for or about maps"
+  },
+  {
+    "english": "Can you show me on the map?",
+    "japanese": "地図で教えてもらえますか？",
+    "romaji": "Chizu de oshiete moraemasu ka?",
+    "category": "Directions & Navigation",
+    "difficulty": 2,
+    "context": "Very useful with phone maps"
+  },
+  {
+    "english": "I'm lost",
+    "japanese": "道に迷いました",
+    "romaji": "Michi ni mayoimashita",
+    "category": "Directions & Navigation",
+    "difficulty": 1,
+    "context": "Asking for help when lost"
+  },
+  {
+    "english": "Where is the nearest convenience store?",
+    "japanese": "一番近いコンビニはどこですか？",
+    "romaji": "Ichiban chikai konbini wa doko desu ka?",
+    "category": "Directions & Navigation",
+    "difficulty": 1,
+    "context": "Konbini are everywhere and essential"
+  },
+  {
+    "english": "Where is the nearest ATM?",
+    "japanese": "一番近いATMはどこですか？",
+    "romaji": "Ichiban chikai ATM wa doko desu ka?",
+    "category": "Directions & Navigation",
+    "difficulty": 1,
+    "context": "Finding cash machines; try 7-Eleven"
+  },
+  {
+    "english": "This address, please",
+    "japanese": "この住所までお願いします",
+    "romaji": "Kono juusho made onegai shimasu",
+    "category": "Directions & Navigation",
+    "difficulty": 1,
+    "context": "Showing an address to a taxi driver"
+  },
+  {
+    "english": "How far is it?",
+    "japanese": "どのくらいの距離ですか？",
+    "romaji": "Dono kurai no kyori desu ka?",
+    "category": "Directions & Navigation",
+    "difficulty": 2,
+    "context": "Asking about distance"
+  },
+  {
+    "english": "How long on foot?",
+    "japanese": "歩いてどのくらいかかりますか？",
+    "romaji": "Aruite dono kurai kakarimasu ka?",
+    "category": "Directions & Navigation",
+    "difficulty": 2,
+    "context": "Estimating walking time"
+  },
+  {
+    "english": "Upstairs / Upper floor",
+    "japanese": "上の階",
+    "romaji": "Ue no kai",
+    "category": "Directions & Navigation",
+    "difficulty": 2,
+    "context": "Navigating buildings"
+  },
+  {
+    "english": "Downstairs / Lower floor",
+    "japanese": "下の階",
+    "romaji": "Shita no kai",
+    "category": "Directions & Navigation",
+    "difficulty": 2,
+    "context": "Navigating buildings"
+  },
+  {
+    "english": "Basement",
+    "japanese": "地下",
+    "romaji": "Chika",
+    "category": "Directions & Navigation",
+    "difficulty": 2,
+    "context": "Many shops and restaurants are in basements"
+  },
+  {
+    "english": "Which floor?",
+    "japanese": "何階ですか？",
+    "romaji": "Nankai desu ka?",
+    "category": "Directions & Navigation",
+    "difficulty": 2,
+    "context": "Navigating department stores and malls"
+  },
+  {
+    "english": "It's on the right side",
+    "japanese": "右側にあります",
+    "romaji": "Migigawa ni arimasu",
+    "category": "Directions & Navigation",
+    "difficulty": 2,
+    "context": "Giving or receiving directions"
+  },
+  {
+    "english": "At the end of the street",
+    "japanese": "通りの突き当たり",
+    "romaji": "Toori no tsukiatari",
+    "category": "Directions & Navigation",
+    "difficulty": 3,
+    "context": "Direction landmark"
+  },
+  {
+    "english": "Where is the tourist information center?",
+    "japanese": "観光案内所はどこですか？",
+    "romaji": "Kankou annaijo wa doko desu ka?",
+    "category": "Directions & Navigation",
+    "difficulty": 1,
+    "context": "Found at major stations; very helpful"
+  },
+  {
+    "english": "Is there a landmark nearby?",
+    "japanese": "近くに目印はありますか？",
+    "romaji": "Chikaku ni mejirushi wa arimasu ka?",
+    "category": "Directions & Navigation",
+    "difficulty": 3,
+    "context": "Helps identify the right location"
+  },
+  {
+    "english": "Train station",
+    "japanese": "駅",
+    "romaji": "Eki",
+    "category": "Transportation",
+    "difficulty": 1,
+    "context": "Basic transportation vocabulary"
+  },
+  {
+    "english": "One ticket to [place], please",
+    "japanese": "[place]まで一枚お願いします",
+    "romaji": "[place] made ichimai onegai shimasu",
+    "category": "Transportation",
+    "difficulty": 1,
+    "context": "Buying a single ticket"
+  },
+  {
+    "english": "Two tickets, please",
+    "japanese": "二枚お願いします",
+    "romaji": "Nimai onegai shimasu",
+    "category": "Transportation",
+    "difficulty": 1,
+    "context": "Buying multiple tickets"
+  },
+  {
+    "english": "Round-trip ticket",
+    "japanese": "往復切符",
+    "romaji": "Oufuku kippu",
+    "category": "Transportation",
+    "difficulty": 2,
+    "context": "Often cheaper than two one-way tickets"
+  },
+  {
+    "english": "One-way ticket",
+    "japanese": "片道切符",
+    "romaji": "Katamichi kippu",
+    "category": "Transportation",
+    "difficulty": 2,
+    "context": "Single direction ticket"
+  },
+  {
+    "english": "Reserved seat",
+    "japanese": "指定席",
+    "romaji": "Shiteiseki",
+    "category": "Transportation",
+    "difficulty": 2,
+    "context": "Guaranteed seat on Shinkansen and express trains"
+  },
+  {
+    "english": "Non-reserved seat",
+    "japanese": "自由席",
+    "romaji": "Jiyuuseki",
+    "category": "Transportation",
+    "difficulty": 2,
+    "context": "Cheaper; first-come, first-served"
+  },
+  {
+    "english": "Green car (first class)",
+    "japanese": "グリーン車",
+    "romaji": "Guriin sha",
+    "category": "Transportation",
+    "difficulty": 3,
+    "context": "Premium seating on Shinkansen"
+  },
+  {
+    "english": "Where is the platform?",
+    "japanese": "ホームはどこですか？",
+    "romaji": "Hoomu wa doko desu ka?",
+    "category": "Transportation",
+    "difficulty": 1,
+    "context": "Finding the right platform"
+  },
+  {
+    "english": "Which platform?",
+    "japanese": "何番ホームですか？",
+    "romaji": "Nanban hoomu desu ka?",
+    "category": "Transportation",
+    "difficulty": 1,
+    "context": "Asking for platform number"
+  },
+  {
+    "english": "Transfer",
+    "japanese": "乗り換え",
+    "romaji": "Norikae",
+    "category": "Transportation",
+    "difficulty": 1,
+    "context": "Changing trains or lines"
+  },
+  {
+    "english": "Where do I transfer?",
+    "japanese": "どこで乗り換えますか？",
+    "romaji": "Doko de norikaemasu ka?",
+    "category": "Transportation",
+    "difficulty": 1,
+    "context": "Essential for multi-line journeys"
+  },
+  {
+    "english": "Last train",
+    "japanese": "終電",
+    "romaji": "Shuuden",
+    "category": "Transportation",
+    "difficulty": 1,
+    "context": "Missing it means expensive taxi or waiting till morning"
+  },
+  {
+    "english": "First train",
+    "japanese": "始発",
+    "romaji": "Shihatsu",
+    "category": "Transportation",
+    "difficulty": 2,
+    "context": "Usually around 5:00 AM"
+  },
+  {
+    "english": "What time is the last train?",
+    "japanese": "終電は何時ですか？",
+    "romaji": "Shuuden wa nanji desu ka?",
+    "category": "Transportation",
+    "difficulty": 1,
+    "context": "Critical for evening plans"
+  },
+  {
+    "english": "Express train",
+    "japanese": "急行",
+    "romaji": "Kyuukou",
+    "category": "Transportation",
+    "difficulty": 2,
+    "context": "Skips some stations; faster"
+  },
+  {
+    "english": "Local train (all stops)",
+    "japanese": "各駅停車",
+    "romaji": "Kakueki teisha",
+    "category": "Transportation",
+    "difficulty": 2,
+    "context": "Stops at every station"
+  },
+  {
+    "english": "Rapid train",
+    "japanese": "快速",
+    "romaji": "Kaisoku",
+    "category": "Transportation",
+    "difficulty": 2,
+    "context": "Between local and express speed"
+  },
+  {
+    "english": "Bullet train / Shinkansen",
+    "japanese": "新幹線",
+    "romaji": "Shinkansen",
+    "category": "Transportation",
+    "difficulty": 1,
+    "context": "Japan's famous high-speed rail"
+  },
+  {
+    "english": "Bus",
+    "japanese": "バス",
+    "romaji": "Basu",
+    "category": "Transportation",
+    "difficulty": 1,
+    "context": "Basic transportation"
+  },
+  {
+    "english": "Bus stop",
+    "japanese": "バス停",
+    "romaji": "Basutei",
+    "category": "Transportation",
+    "difficulty": 1,
+    "context": "Where to catch buses"
+  },
+  {
+    "english": "Where is the bus stop?",
+    "japanese": "バス停はどこですか？",
+    "romaji": "Basutei wa doko desu ka?",
+    "category": "Transportation",
+    "difficulty": 1,
+    "context": "Finding bus stops"
+  },
+  {
+    "english": "Does this bus go to...?",
+    "japanese": "このバスは…に行きますか？",
+    "romaji": "Kono basu wa...ni ikimasu ka?",
+    "category": "Transportation",
+    "difficulty": 1,
+    "context": "Confirming bus route"
+  },
+  {
+    "english": "Taxi",
+    "japanese": "タクシー",
+    "romaji": "Takushii",
+    "category": "Transportation",
+    "difficulty": 1,
+    "context": "Doors open automatically; don't touch them"
+  },
+  {
+    "english": "Please call a taxi",
+    "japanese": "タクシーを呼んでください",
+    "romaji": "Takushii wo yonde kudasai",
+    "category": "Transportation",
+    "difficulty": 2,
+    "context": "Requesting a taxi"
+  },
+  {
+    "english": "Please take me to this address",
+    "japanese": "この住所までお願いします",
+    "romaji": "Kono juusho made onegai shimasu",
+    "category": "Transportation",
+    "difficulty": 1,
+    "context": "Show address on phone to taxi driver"
+  },
+  {
+    "english": "Please stop here",
+    "japanese": "ここで止めてください",
+    "romaji": "Koko de tomete kudasai",
+    "category": "Transportation",
+    "difficulty": 1,
+    "context": "Telling taxi driver where to stop"
+  },
+  {
+    "english": "Airport",
+    "japanese": "空港",
+    "romaji": "Kuukou",
+    "category": "Transportation",
+    "difficulty": 1,
+    "context": "Basic transportation vocabulary"
+  },
+  {
+    "english": "How do I get to the airport?",
+    "japanese": "空港にはどうやって行きますか？",
+    "romaji": "Kuukou ni wa douyatte ikimasu ka?",
+    "category": "Transportation",
+    "difficulty": 1,
+    "context": "Getting to the airport"
+  },
+  {
+    "english": "Departure",
+    "japanese": "出発",
+    "romaji": "Shuppatsu",
+    "category": "Transportation",
+    "difficulty": 2,
+    "context": "Seen on departure boards"
+  },
+  {
+    "english": "Arrival",
+    "japanese": "到着",
+    "romaji": "Touchaku",
+    "category": "Transportation",
+    "difficulty": 2,
+    "context": "Seen on arrival boards"
+  },
+  {
+    "english": "Boarding pass",
+    "japanese": "搭乗券",
+    "romaji": "Toujouken",
+    "category": "Transportation",
+    "difficulty": 2,
+    "context": "Needed for flights"
+  },
+  {
+    "english": "Baggage claim",
+    "japanese": "手荷物受取所",
+    "romaji": "Tenimotsu uketorijo",
+    "category": "Transportation",
+    "difficulty": 3,
+    "context": "Follow signs at airport"
+  },
+  {
+    "english": "IC card (Suica/Pasmo)",
+    "japanese": "ICカード",
+    "romaji": "IC kaado",
+    "category": "Transportation",
+    "difficulty": 1,
+    "context": "Rechargeable card for trains, buses, convenience stores"
+  },
+  {
+    "english": "Where can I buy an IC card?",
+    "japanese": "ICカードはどこで買えますか？",
+    "romaji": "IC kaado wa doko de kaemasu ka?",
+    "category": "Transportation",
+    "difficulty": 1,
+    "context": "Available at station ticket machines"
+  },
+  {
+    "english": "Please recharge my card",
+    "japanese": "チャージお願いします",
+    "romaji": "Chaaji onegai shimasu",
+    "category": "Transportation",
+    "difficulty": 1,
+    "context": "Adding money to IC card"
+  },
+  {
+    "english": "Subway",
+    "japanese": "地下鉄",
+    "romaji": "Chikatetsu",
+    "category": "Transportation",
+    "difficulty": 1,
+    "context": "Underground train system"
+  },
+  {
+    "english": "Which line should I take?",
+    "japanese": "何線に乗ればいいですか？",
+    "romaji": "Nansen ni noreba ii desu ka?",
+    "category": "Transportation",
+    "difficulty": 2,
+    "context": "Navigating complex rail networks"
+  },
+  {
+    "english": "How many stops?",
+    "japanese": "何駅ですか？",
+    "romaji": "Nan-eki desu ka?",
+    "category": "Transportation",
+    "difficulty": 2,
+    "context": "Counting stations to destination"
+  },
+  {
+    "english": "Is this the right train for...?",
+    "japanese": "これは…行きの電車ですか？",
+    "romaji": "Kore wa...yuki no densha desu ka?",
+    "category": "Transportation",
+    "difficulty": 1,
+    "context": "Confirming you're on the right train"
+  },
+  {
+    "english": "Next stop",
+    "japanese": "次の駅",
+    "romaji": "Tsugi no eki",
+    "category": "Transportation",
+    "difficulty": 2,
+    "context": "Listening for announcements"
+  },
+  {
+    "english": "Ticket gate",
+    "japanese": "改札口",
+    "romaji": "Kaisatsuguchi",
+    "category": "Transportation",
+    "difficulty": 2,
+    "context": "Where you tap IC card or insert ticket"
+  },
+  {
+    "english": "Ticket machine",
+    "japanese": "券売機",
+    "romaji": "Kenbaiki",
+    "category": "Transportation",
+    "difficulty": 2,
+    "context": "Automated ticket purchase"
+  },
+  {
+    "english": "Is this seat available?",
+    "japanese": "この席は空いていますか？",
+    "romaji": "Kono seki wa aite imasu ka?",
+    "category": "Transportation",
+    "difficulty": 2,
+    "context": "Checking if you can sit down"
+  },
+  {
+    "english": "I missed my train",
+    "japanese": "電車に乗り遅れました",
+    "romaji": "Densha ni noriokuremashita",
+    "category": "Transportation",
+    "difficulty": 2,
+    "context": "Seeking help after missing a train"
+  },
+  {
+    "english": "Where is the taxi stand?",
+    "japanese": "タクシー乗り場はどこですか？",
+    "romaji": "Takushii noriba wa doko desu ka?",
+    "category": "Transportation",
+    "difficulty": 2,
+    "context": "Finding designated taxi pickup areas"
+  },
+  {
+    "english": "I'd like to rent a car",
+    "japanese": "レンタカーを借りたいです",
+    "romaji": "Rentakaa wo karitai desu",
+    "category": "Transportation",
+    "difficulty": 3,
+    "context": "International license required"
+  },
+  {
+    "english": "Highway bus",
+    "japanese": "高速バス",
+    "romaji": "Kousoku basu",
+    "category": "Transportation",
+    "difficulty": 3,
+    "context": "Cheaper long-distance option"
+  },
+  {
+    "english": "Japan Rail Pass",
+    "japanese": "JRパス",
+    "romaji": "JR pasu",
+    "category": "Transportation",
+    "difficulty": 2,
+    "context": "Unlimited JR travel pass for tourists"
+  },
+  {
+    "english": "Is there a direct train?",
+    "japanese": "直通電車はありますか？",
+    "romaji": "Chokutsuu densha wa arimasu ka?",
+    "category": "Transportation",
+    "difficulty": 3,
+    "context": "Avoiding transfers"
+  },
+  {
+    "english": "I have a reservation",
+    "japanese": "予約があります",
+    "romaji": "Yoyaku ga arimasu",
+    "category": "Accommodation",
+    "difficulty": 1,
+    "context": "At check-in"
+  },
+  {
+    "english": "I'd like to check in",
+    "japanese": "チェックインお願いします",
+    "romaji": "Chekkuin onegai shimasu",
+    "category": "Accommodation",
+    "difficulty": 1,
+    "context": "Standard check-in phrase"
+  },
+  {
+    "english": "I'd like to check out",
+    "japanese": "チェックアウトお願いします",
+    "romaji": "Chekkuauto onegai shimasu",
+    "category": "Accommodation",
+    "difficulty": 1,
+    "context": "Standard check-out phrase"
+  },
+  {
+    "english": "Do you have a room available?",
+    "japanese": "空室はありますか？",
+    "romaji": "Kuushitsu wa arimasu ka?",
+    "category": "Accommodation",
+    "difficulty": 1,
+    "context": "Walking in without reservation"
+  },
+  {
+    "english": "Single room",
+    "japanese": "シングルルーム",
+    "romaji": "Shinguru ruumu",
+    "category": "Accommodation",
+    "difficulty": 1,
+    "context": "One person, one bed"
+  },
+  {
+    "english": "Double room",
+    "japanese": "ダブルルーム",
+    "romaji": "Daburu ruumu",
+    "category": "Accommodation",
+    "difficulty": 1,
+    "context": "One large bed for two"
+  },
+  {
+    "english": "Twin room",
+    "japanese": "ツインルーム",
+    "romaji": "Tsuin ruumu",
+    "category": "Accommodation",
+    "difficulty": 1,
+    "context": "Two separate beds"
+  },
+  {
+    "english": "How much per night?",
+    "japanese": "一泊いくらですか？",
+    "romaji": "Ippaku ikura desu ka?",
+    "category": "Accommodation",
+    "difficulty": 1,
+    "context": "Asking room rate"
+  },
+  {
+    "english": "For [X] nights",
+    "japanese": "[X]泊です",
+    "romaji": "[X]-haku desu",
+    "category": "Accommodation",
+    "difficulty": 1,
+    "context": "Stating length of stay; replace [X]"
+  },
+  {
+    "english": "Room key",
+    "japanese": "ルームキー",
+    "romaji": "Ruumu kii",
+    "category": "Accommodation",
+    "difficulty": 1,
+    "context": "Asking for or about your key"
+  },
+  {
+    "english": "Key",
+    "japanese": "鍵",
+    "romaji": "Kagi",
+    "category": "Accommodation",
+    "difficulty": 1,
+    "context": "Generic word for key"
+  },
+  {
+    "english": "What is the Wi-Fi password?",
+    "japanese": "Wi-Fiのパスワードは何ですか？",
+    "romaji": "Waifai no pasuwaado wa nan desu ka?",
+    "category": "Accommodation",
+    "difficulty": 1,
+    "context": "Essential at check-in"
+  },
+  {
+    "english": "Air conditioning",
+    "japanese": "エアコン",
+    "romaji": "Eakon",
+    "category": "Accommodation",
+    "difficulty": 2,
+    "context": "Climate control"
+  },
+  {
+    "english": "The air conditioning isn't working",
+    "japanese": "エアコンが動きません",
+    "romaji": "Eakon ga ugokimasen",
+    "category": "Accommodation",
+    "difficulty": 2,
+    "context": "Reporting a problem"
+  },
+  {
+    "english": "Hot water",
+    "japanese": "お湯",
+    "romaji": "Oyu",
+    "category": "Accommodation",
+    "difficulty": 2,
+    "context": "Reporting water issues"
+  },
+  {
+    "english": "There's no hot water",
+    "japanese": "お湯が出ません",
+    "romaji": "Oyu ga demasen",
+    "category": "Accommodation",
+    "difficulty": 2,
+    "context": "Common hotel complaint"
+  },
+  {
+    "english": "Towel",
+    "japanese": "タオル",
+    "romaji": "Taoru",
+    "category": "Accommodation",
+    "difficulty": 2,
+    "context": "Basic amenity"
+  },
+  {
+    "english": "Extra towels, please",
+    "japanese": "タオルを追加でお願いします",
+    "romaji": "Taoru wo tsuika de onegai shimasu",
+    "category": "Accommodation",
+    "difficulty": 2,
+    "context": "Requesting more towels"
+  },
+  {
+    "english": "Is breakfast included?",
+    "japanese": "朝食付きですか？",
+    "romaji": "Choushoku tsuki desu ka?",
+    "category": "Accommodation",
+    "difficulty": 1,
+    "context": "Important when booking"
+  },
+  {
+    "english": "What time is breakfast?",
+    "japanese": "朝食は何時ですか？",
+    "romaji": "Choushoku wa nanji desu ka?",
+    "category": "Accommodation",
+    "difficulty": 1,
+    "context": "Planning your morning"
+  },
+  {
+    "english": "What time is check-out?",
+    "japanese": "チェックアウトは何時ですか？",
+    "romaji": "Chekkuauto wa nanji desu ka?",
+    "category": "Accommodation",
+    "difficulty": 1,
+    "context": "Usually 10:00 or 11:00 AM"
+  },
+  {
+    "english": "Can I store my luggage?",
+    "japanese": "荷物を預けられますか？",
+    "romaji": "Nimotsu wo azukeraremasu ka?",
+    "category": "Accommodation",
+    "difficulty": 1,
+    "context": "Before check-in or after check-out"
+  },
+  {
+    "english": "Elevator",
+    "japanese": "エレベーター",
+    "romaji": "Erebeetaa",
+    "category": "Accommodation",
+    "difficulty": 2,
+    "context": "Finding the elevator"
+  },
+  {
+    "english": "Stairs",
+    "japanese": "階段",
+    "romaji": "Kaidan",
+    "category": "Accommodation",
+    "difficulty": 2,
+    "context": "Alternative to elevator"
+  },
+  {
+    "english": "Where is room [number]?",
+    "japanese": "[number]号室はどこですか？",
+    "romaji": "[number]-goushitsu wa doko desu ka?",
+    "category": "Accommodation",
+    "difficulty": 2,
+    "context": "Finding your room"
+  },
+  {
+    "english": "Japanese-style room",
+    "japanese": "和室",
+    "romaji": "Washitsu",
+    "category": "Accommodation",
+    "difficulty": 2,
+    "context": "Traditional tatami room with futon"
+  },
+  {
+    "english": "Western-style room",
+    "japanese": "洋室",
+    "romaji": "Youshitsu",
+    "category": "Accommodation",
+    "difficulty": 2,
+    "context": "Standard room with beds"
+  },
+  {
+    "english": "Futon",
+    "japanese": "布団",
+    "romaji": "Futon",
+    "category": "Accommodation",
+    "difficulty": 2,
+    "context": "Traditional Japanese bedding on tatami"
+  },
+  {
+    "english": "Public bath / Hot spring",
+    "japanese": "大浴場 / 温泉",
+    "romaji": "Daiyokujou / Onsen",
+    "category": "Accommodation",
+    "difficulty": 2,
+    "context": "Communal bathing; wash before entering"
+  },
+  {
+    "english": "Is there a public bath?",
+    "japanese": "大浴場はありますか？",
+    "romaji": "Daiyokujou wa arimasu ka?",
+    "category": "Accommodation",
+    "difficulty": 2,
+    "context": "Many Japanese hotels have one"
+  },
+  {
+    "english": "Laundry room",
+    "japanese": "洗濯室",
+    "romaji": "Sentakushitsu",
+    "category": "Accommodation",
+    "difficulty": 3,
+    "context": "Self-service laundry in many hotels"
+  },
+  {
+    "english": "Could I have a wake-up call?",
+    "japanese": "モーニングコールをお願いできますか？",
+    "romaji": "Mooningu kooru wo onegai dekimasu ka?",
+    "category": "Accommodation",
+    "difficulty": 3,
+    "context": "Requesting alarm service"
+  },
+  {
+    "english": "The room is too cold",
+    "japanese": "部屋が寒すぎます",
+    "romaji": "Heya ga samusugimasu",
+    "category": "Accommodation",
+    "difficulty": 2,
+    "context": "Temperature complaint"
+  },
+  {
+    "english": "The room is too hot",
+    "japanese": "部屋が暑すぎます",
+    "romaji": "Heya ga atsusugimasu",
+    "category": "Accommodation",
+    "difficulty": 2,
+    "context": "Temperature complaint"
+  },
+  {
+    "english": "Can I extend my stay?",
+    "japanese": "滞在を延長できますか？",
+    "romaji": "Taizai wo enchou dekimasu ka?",
+    "category": "Accommodation",
+    "difficulty": 3,
+    "context": "Adding extra nights"
+  },
+  {
+    "english": "Is there a safe?",
+    "japanese": "金庫はありますか？",
+    "romaji": "Kinko wa arimasu ka?",
+    "category": "Accommodation",
+    "difficulty": 2,
+    "context": "Securing valuables"
+  },
+  {
+    "english": "Non-smoking room",
+    "japanese": "禁煙ルーム",
+    "romaji": "Kinen ruumu",
+    "category": "Accommodation",
+    "difficulty": 1,
+    "context": "Room preference"
+  },
+  {
+    "english": "Smoking room",
+    "japanese": "喫煙ルーム",
+    "romaji": "Kitsuen ruumu",
+    "category": "Accommodation",
+    "difficulty": 2,
+    "context": "Room preference"
+  },
+  {
+    "english": "Coin locker",
+    "japanese": "コインロッカー",
+    "romaji": "Koin rokkaa",
+    "category": "Accommodation",
+    "difficulty": 1,
+    "context": "Available at most stations for luggage"
+  },
+  {
+    "english": "Where are the coin lockers?",
+    "japanese": "コインロッカーはどこですか？",
+    "romaji": "Koin rokkaa wa doko desu ka?",
+    "category": "Accommodation",
+    "difficulty": 1,
+    "context": "Storing luggage while sightseeing"
+  },
+  {
+    "english": "A table for two, please",
+    "japanese": "二人です",
+    "romaji": "Futari desu",
+    "category": "Restaurant & Food",
+    "difficulty": 1,
+    "context": "Telling the host your party size"
+  },
+  {
+    "english": "A table for one, please",
+    "japanese": "一人です",
+    "romaji": "Hitori desu",
+    "category": "Restaurant & Food",
+    "difficulty": 1,
+    "context": "Dining alone; very common in Japan"
+  },
+  {
+    "english": "Do you have an English menu?",
+    "japanese": "英語のメニューはありますか？",
+    "romaji": "Eigo no menyuu wa arimasu ka?",
+    "category": "Restaurant & Food",
+    "difficulty": 1,
+    "context": "Many tourist areas have them"
+  },
+  {
+    "english": "I'd like to order",
+    "japanese": "注文したいです",
+    "romaji": "Chuumon shitai desu",
+    "category": "Restaurant & Food",
+    "difficulty": 1,
+    "context": "Getting the waiter's attention"
+  },
+  {
+    "english": "This one, please",
+    "japanese": "これをお願いします",
+    "romaji": "Kore wo onegai shimasu",
+    "category": "Restaurant & Food",
+    "difficulty": 1,
+    "context": "Pointing at menu item"
+  },
+  {
+    "english": "What do you recommend?",
+    "japanese": "おすすめは何ですか？",
+    "romaji": "Osusume wa nan desu ka?",
+    "category": "Restaurant & Food",
+    "difficulty": 1,
+    "context": "Asking for the chef's recommendation"
+  },
+  {
+    "english": "Water, please",
+    "japanese": "お水をください",
+    "romaji": "Omizu wo kudasai",
+    "category": "Restaurant & Food",
+    "difficulty": 1,
+    "context": "Water is usually free in Japan"
+  },
+  {
+    "english": "The check, please",
+    "japanese": "お会計お願いします",
+    "romaji": "Okaikei onegai shimasu",
+    "category": "Restaurant & Food",
+    "difficulty": 1,
+    "context": "Requesting the bill; pay at counter in many places"
+  },
+  {
+    "english": "Delicious!",
+    "japanese": "おいしい！",
+    "romaji": "Oishii!",
+    "category": "Restaurant & Food",
+    "difficulty": 1,
+    "context": "Complimenting the food; chefs appreciate it"
+  },
+  {
+    "english": "Let's eat! (Before meal)",
+    "japanese": "いただきます",
+    "romaji": "Itadakimasu",
+    "category": "Restaurant & Food",
+    "difficulty": 1,
+    "context": "Said before eating; shows gratitude for the meal"
+  },
+  {
+    "english": "Thank you for the meal (after)",
+    "japanese": "ごちそうさまでした",
+    "romaji": "Gochisousama deshita",
+    "category": "Restaurant & Food",
+    "difficulty": 1,
+    "context": "Said after eating; essential cultural practice"
+  },
+  {
+    "english": "I'm vegetarian",
+    "japanese": "ベジタリアンです",
+    "romaji": "Bejitarian desu",
+    "category": "Restaurant & Food",
+    "difficulty": 1,
+    "context": "Japan can be challenging for vegetarians"
+  },
+  {
+    "english": "I'm vegan",
+    "japanese": "ビーガンです",
+    "romaji": "Biigan desu",
+    "category": "Restaurant & Food",
+    "difficulty": 2,
+    "context": "Even more challenging; dashi is in many dishes"
+  },
+  {
+    "english": "I have a food allergy",
+    "japanese": "食物アレルギーがあります",
+    "romaji": "Shokumotsu arerugii ga arimasu",
+    "category": "Restaurant & Food",
+    "difficulty": 1,
+    "context": "Critical safety phrase"
+  },
+  {
+    "english": "I'm allergic to [food]",
+    "japanese": "[food]アレルギーがあります",
+    "romaji": "[food] arerugii ga arimasu",
+    "category": "Restaurant & Food",
+    "difficulty": 1,
+    "context": "Replace [food] with allergen"
+  },
+  {
+    "english": "Peanut allergy",
+    "japanese": "ピーナッツアレルギー",
+    "romaji": "Piinattsu arerugii",
+    "category": "Restaurant & Food",
+    "difficulty": 1,
+    "context": "Common allergy specification"
+  },
+  {
+    "english": "Shellfish allergy",
+    "japanese": "甲殻類アレルギー",
+    "romaji": "Koukakurui arerugii",
+    "category": "Restaurant & Food",
+    "difficulty": 2,
+    "context": "Important given Japanese seafood cuisine"
+  },
+  {
+    "english": "No meat, please",
+    "japanese": "肉なしでお願いします",
+    "romaji": "Niku nashi de onegai shimasu",
+    "category": "Restaurant & Food",
+    "difficulty": 1,
+    "context": "Dietary restriction"
+  },
+  {
+    "english": "No fish, please",
+    "japanese": "魚なしでお願いします",
+    "romaji": "Sakana nashi de onegai shimasu",
+    "category": "Restaurant & Food",
+    "difficulty": 1,
+    "context": "Dietary restriction"
+  },
+  {
+    "english": "Does this contain [ingredient]?",
+    "japanese": "これに[ingredient]は入っていますか？",
+    "romaji": "Kore ni [ingredient] wa haitte imasu ka?",
+    "category": "Restaurant & Food",
+    "difficulty": 2,
+    "context": "Checking ingredients"
+  },
+  {
+    "english": "Sushi",
+    "japanese": "寿司",
+    "romaji": "Sushi",
+    "category": "Restaurant & Food",
+    "difficulty": 1,
+    "context": "Iconic Japanese food"
+  },
+  {
+    "english": "Ramen",
+    "japanese": "ラーメン",
+    "romaji": "Raamen",
+    "category": "Restaurant & Food",
+    "difficulty": 1,
+    "context": "Popular noodle soup; many regional varieties"
+  },
+  {
+    "english": "Tempura",
+    "japanese": "天ぷら",
+    "romaji": "Tenpura",
+    "category": "Restaurant & Food",
+    "difficulty": 1,
+    "context": "Battered and deep-fried seafood/vegetables"
+  },
+  {
+    "english": "Soba (buckwheat noodles)",
+    "japanese": "そば",
+    "romaji": "Soba",
+    "category": "Restaurant & Food",
+    "difficulty": 1,
+    "context": "Thin noodles; served hot or cold"
+  },
+  {
+    "english": "Udon (thick noodles)",
+    "japanese": "うどん",
+    "romaji": "Udon",
+    "category": "Restaurant & Food",
+    "difficulty": 1,
+    "context": "Thick wheat noodles in broth"
+  },
+  {
+    "english": "Tonkatsu (pork cutlet)",
+    "japanese": "とんかつ",
+    "romaji": "Tonkatsu",
+    "category": "Restaurant & Food",
+    "difficulty": 2,
+    "context": "Breaded deep-fried pork; very popular"
+  },
+  {
+    "english": "Yakitori (grilled chicken)",
+    "japanese": "焼き鳥",
+    "romaji": "Yakitori",
+    "category": "Restaurant & Food",
+    "difficulty": 2,
+    "context": "Chicken skewers; great with beer"
+  },
+  {
+    "english": "Gyuudon (beef bowl)",
+    "japanese": "牛丼",
+    "romaji": "Gyuudon",
+    "category": "Restaurant & Food",
+    "difficulty": 2,
+    "context": "Cheap and filling; Yoshinoya, Sukiya chains"
+  },
+  {
+    "english": "Curry rice",
+    "japanese": "カレーライス",
+    "romaji": "Karee raisu",
+    "category": "Restaurant & Food",
+    "difficulty": 2,
+    "context": "Japanese-style curry; milder than Indian"
+  },
+  {
+    "english": "Set meal",
+    "japanese": "定食",
+    "romaji": "Teishoku",
+    "category": "Restaurant & Food",
+    "difficulty": 2,
+    "context": "Complete meal with rice, soup, sides"
+  },
+  {
+    "english": "Rice",
+    "japanese": "ご飯",
+    "romaji": "Gohan",
+    "category": "Restaurant & Food",
+    "difficulty": 1,
+    "context": "Staple of Japanese meals"
+  },
+  {
+    "english": "Miso soup",
+    "japanese": "味噌汁",
+    "romaji": "Misoshiru",
+    "category": "Restaurant & Food",
+    "difficulty": 1,
+    "context": "Accompanies most Japanese meals"
+  },
+  {
+    "english": "Green tea",
+    "japanese": "緑茶",
+    "romaji": "Ryokucha",
+    "category": "Restaurant & Food",
+    "difficulty": 1,
+    "context": "Often served free at restaurants"
+  },
+  {
+    "english": "Beer",
+    "japanese": "ビール",
+    "romaji": "Biiru",
+    "category": "Restaurant & Food",
+    "difficulty": 1,
+    "context": "Popular drink; often first order at izakaya"
+  },
+  {
+    "english": "Sake (rice wine)",
+    "japanese": "日本酒",
+    "romaji": "Nihonshu",
+    "category": "Restaurant & Food",
+    "difficulty": 2,
+    "context": "Use nihonshu, not sake, to be specific"
+  },
+  {
+    "english": "Chopsticks",
+    "japanese": "お箸",
+    "romaji": "Ohashi",
+    "category": "Restaurant & Food",
+    "difficulty": 1,
+    "context": "Primary eating utensil"
+  },
+  {
+    "english": "Can I have a fork?",
+    "japanese": "フォークをいただけますか？",
+    "romaji": "Fooku wo itadakemasu ka?",
+    "category": "Restaurant & Food",
+    "difficulty": 1,
+    "context": "No shame in asking; restaurants are happy to help"
+  },
+  {
+    "english": "Spoon",
+    "japanese": "スプーン",
+    "romaji": "Supuun",
+    "category": "Restaurant & Food",
+    "difficulty": 2,
+    "context": "For soups and curry"
+  },
+  {
+    "english": "Spicy / Hot",
+    "japanese": "辛い",
+    "romaji": "Karai",
+    "category": "Restaurant & Food",
+    "difficulty": 2,
+    "context": "Describing flavor"
+  },
+  {
+    "english": "Not spicy, please",
+    "japanese": "辛くしないでください",
+    "romaji": "Karaku shinaide kudasai",
+    "category": "Restaurant & Food",
+    "difficulty": 2,
+    "context": "Reducing spice level"
+  },
+  {
+    "english": "Sweet",
+    "japanese": "甘い",
+    "romaji": "Amai",
+    "category": "Restaurant & Food",
+    "difficulty": 2,
+    "context": "Describing flavor"
+  },
+  {
+    "english": "Salty",
+    "japanese": "しょっぱい",
+    "romaji": "Shoppai",
+    "category": "Restaurant & Food",
+    "difficulty": 2,
+    "context": "Describing flavor"
+  },
+  {
+    "english": "More rice, please",
+    "japanese": "ご飯のおかわりをお願いします",
+    "romaji": "Gohan no okawari wo onegai shimasu",
+    "category": "Restaurant & Food",
+    "difficulty": 2,
+    "context": "Often free refills at set-meal places"
+  },
+  {
+    "english": "Takeout",
+    "japanese": "テイクアウト",
+    "romaji": "Teikuauto",
+    "category": "Restaurant & Food",
+    "difficulty": 1,
+    "context": "Getting food to go"
+  },
+  {
+    "english": "For here",
+    "japanese": "店内で",
+    "romaji": "Tennai de",
+    "category": "Restaurant & Food",
+    "difficulty": 1,
+    "context": "Eating in the restaurant"
+  },
+  {
+    "english": "Lunch set",
+    "japanese": "ランチセット",
+    "romaji": "Ranchi setto",
+    "category": "Restaurant & Food",
+    "difficulty": 2,
+    "context": "Usually cheaper than dinner; good value"
+  },
+  {
+    "english": "Coffee",
+    "japanese": "コーヒー",
+    "romaji": "Koohii",
+    "category": "Restaurant & Food",
+    "difficulty": 1,
+    "context": "Available at cafes and konbini"
+  },
+  {
+    "english": "Breakfast",
+    "japanese": "朝食",
+    "romaji": "Choushoku",
+    "category": "Restaurant & Food",
+    "difficulty": 2,
+    "context": "First meal of the day"
+  },
+  {
+    "english": "Lunch",
+    "japanese": "昼食",
+    "romaji": "Chuushoku",
+    "category": "Restaurant & Food",
+    "difficulty": 2,
+    "context": "Midday meal"
+  },
+  {
+    "english": "Dinner",
+    "japanese": "夕食",
+    "romaji": "Yuushoku",
+    "category": "Restaurant & Food",
+    "difficulty": 2,
+    "context": "Evening meal"
+  },
+  {
+    "english": "Dessert",
+    "japanese": "デザート",
+    "romaji": "Dezaato",
+    "category": "Restaurant & Food",
+    "difficulty": 2,
+    "context": "Sweet course"
+  },
+  {
+    "english": "One more, please",
+    "japanese": "もう一つお願いします",
+    "romaji": "Mou hitotsu onegai shimasu",
+    "category": "Restaurant & Food",
+    "difficulty": 2,
+    "context": "Ordering another of the same"
+  },
+  {
+    "english": "That's enough",
+    "japanese": "もう大丈夫です",
+    "romaji": "Mou daijoubu desu",
+    "category": "Restaurant & Food",
+    "difficulty": 2,
+    "context": "Declining more food or drink"
+  },
+  {
+    "english": "Reservation for [name]",
+    "japanese": "[name]で予約しています",
+    "romaji": "[name] de yoyaku shite imasu",
+    "category": "Restaurant & Food",
+    "difficulty": 2,
+    "context": "Checking in at a restaurant"
+  },
+  {
+    "english": "Is there gluten in this?",
+    "japanese": "これにグルテンは入っていますか？",
+    "romaji": "Kore ni guruten wa haitte imasu ka?",
+    "category": "Restaurant & Food",
+    "difficulty": 2,
+    "context": "Gluten sensitivity; soy sauce contains wheat"
+  },
+  {
+    "english": "Non-alcoholic drink",
+    "japanese": "ノンアルコール",
+    "romaji": "Non arukooru",
+    "category": "Restaurant & Food",
+    "difficulty": 2,
+    "context": "Requesting drinks without alcohol"
+  },
+  {
+    "english": "Kids' menu",
+    "japanese": "お子様メニュー",
+    "romaji": "Okosama menyuu",
+    "category": "Restaurant & Food",
+    "difficulty": 3,
+    "context": "For families with children"
+  },
+  {
+    "english": "Drink menu, please",
+    "japanese": "ドリンクメニューをお願いします",
+    "romaji": "Dorinku menyuu wo onegai shimasu",
+    "category": "Restaurant & Food",
+    "difficulty": 2,
+    "context": "Requesting the beverage list"
+  },
+  {
+    "english": "Excuse me! (calling waiter)",
+    "japanese": "すみません！",
+    "romaji": "Sumimasen!",
+    "category": "Restaurant & Food",
+    "difficulty": 1,
+    "context": "How to call your server; or press the call button"
+  },
+  {
+    "english": "Separate checks, please",
+    "japanese": "別々でお願いします",
+    "romaji": "Betsubetsu de onegai shimasu",
+    "category": "Restaurant & Food",
+    "difficulty": 3,
+    "context": "Splitting the bill; not always possible"
+  },
+  {
+    "english": "How much is this?",
+    "japanese": "これはいくらですか？",
+    "romaji": "Kore wa ikura desu ka?",
+    "category": "Shopping",
+    "difficulty": 1,
+    "context": "Most basic shopping question"
+  },
+  {
+    "english": "Too expensive",
+    "japanese": "高すぎます",
+    "romaji": "Takasugimasu",
+    "category": "Shopping",
+    "difficulty": 2,
+    "context": "Expressing price concern; bargaining is rare in Japan"
+  },
+  {
+    "english": "Is there a cheaper one?",
+    "japanese": "もっと安いのはありますか？",
+    "romaji": "Motto yasui no wa arimasu ka?",
+    "category": "Shopping",
+    "difficulty": 2,
+    "context": "Looking for budget options"
+  },
+  {
+    "english": "I'm just looking",
+    "japanese": "見ているだけです",
+    "romaji": "Mite iru dake desu",
+    "category": "Shopping",
+    "difficulty": 1,
+    "context": "When staff approach you in stores"
+  },
+  {
+    "english": "I'll take this",
+    "japanese": "これをください",
+    "romaji": "Kore wo kudasai",
+    "category": "Shopping",
+    "difficulty": 1,
+    "context": "Deciding to purchase an item"
+  },
+  {
+    "english": "Do you have a larger size?",
+    "japanese": "もっと大きいサイズはありますか？",
+    "romaji": "Motto ookii saizu wa arimasu ka?",
+    "category": "Shopping",
+    "difficulty": 2,
+    "context": "Japanese sizes run smaller"
+  },
+  {
+    "english": "Do you have a smaller size?",
+    "japanese": "もっと小さいサイズはありますか？",
+    "romaji": "Motto chiisai saizu wa arimasu ka?",
+    "category": "Shopping",
+    "difficulty": 2,
+    "context": "Finding the right fit"
+  },
+  {
+    "english": "Can I try this on?",
+    "japanese": "試着してもいいですか？",
+    "romaji": "Shichaku shite mo ii desu ka?",
+    "category": "Shopping",
+    "difficulty": 2,
+    "context": "Asking to use the fitting room"
+  },
+  {
+    "english": "Where is the fitting room?",
+    "japanese": "試着室はどこですか？",
+    "romaji": "Shichakushitsu wa doko desu ka?",
+    "category": "Shopping",
+    "difficulty": 2,
+    "context": "Finding the changing area"
+  },
+  {
+    "english": "Receipt, please",
+    "japanese": "レシートをお願いします",
+    "romaji": "Reshiito wo onegai shimasu",
+    "category": "Shopping",
+    "difficulty": 1,
+    "context": "Getting proof of purchase; needed for tax-free"
+  },
+  {
+    "english": "No bag needed",
+    "japanese": "袋はいりません",
+    "romaji": "Fukuro wa irimasen",
+    "category": "Shopping",
+    "difficulty": 2,
+    "context": "Plastic bags often cost extra now"
+  },
+  {
+    "english": "Bag, please",
+    "japanese": "袋をお願いします",
+    "romaji": "Fukuro wo onegai shimasu",
+    "category": "Shopping",
+    "difficulty": 2,
+    "context": "Requesting a shopping bag"
+  },
+  {
+    "english": "Tax-free",
+    "japanese": "免税",
+    "romaji": "Menzei",
+    "category": "Shopping",
+    "difficulty": 1,
+    "context": "Tourists can get tax-free on purchases over ¥5,000"
+  },
+  {
+    "english": "Can I get tax-free?",
+    "japanese": "免税で買えますか？",
+    "romaji": "Menzei de kaemasu ka?",
+    "category": "Shopping",
+    "difficulty": 1,
+    "context": "Need passport for tax-free purchases"
+  },
+  {
+    "english": "Do you accept credit cards?",
+    "japanese": "クレジットカードは使えますか？",
+    "romaji": "Kurejitto kaado wa tsukaemasu ka?",
+    "category": "Shopping",
+    "difficulty": 1,
+    "context": "Not all places accept cards"
+  },
+  {
+    "english": "Cash only?",
+    "japanese": "現金のみですか？",
+    "romaji": "Genkin nomi desu ka?",
+    "category": "Shopping",
+    "difficulty": 1,
+    "context": "Many small shops are cash only"
+  },
+  {
+    "english": "Red",
+    "japanese": "赤",
+    "romaji": "Aka",
+    "category": "Shopping",
+    "difficulty": 2,
+    "context": "Color for shopping"
+  },
+  {
+    "english": "Blue",
+    "japanese": "青",
+    "romaji": "Ao",
+    "category": "Shopping",
+    "difficulty": 2,
+    "context": "Color for shopping"
+  },
+  {
+    "english": "White",
+    "japanese": "白",
+    "romaji": "Shiro",
+    "category": "Shopping",
+    "difficulty": 2,
+    "context": "Color for shopping"
+  },
+  {
+    "english": "Black",
+    "japanese": "黒",
+    "romaji": "Kuro",
+    "category": "Shopping",
+    "difficulty": 2,
+    "context": "Color for shopping"
+  },
+  {
+    "english": "Green",
+    "japanese": "緑",
+    "romaji": "Midori",
+    "category": "Shopping",
+    "difficulty": 2,
+    "context": "Color for shopping"
+  },
+  {
+    "english": "Yellow",
+    "japanese": "黄色",
+    "romaji": "Kiiro",
+    "category": "Shopping",
+    "difficulty": 2,
+    "context": "Color for shopping"
+  },
+  {
+    "english": "Size S / M / L",
+    "japanese": "S / M / Lサイズ",
+    "romaji": "Esu / Emu / Eru saizu",
+    "category": "Shopping",
+    "difficulty": 2,
+    "context": "Standard size labels"
+  },
+  {
+    "english": "Do you ship internationally?",
+    "japanese": "海外発送はできますか？",
+    "romaji": "Kaigai hassou wa dekimasu ka?",
+    "category": "Shopping",
+    "difficulty": 3,
+    "context": "For large or heavy purchases"
+  },
+  {
+    "english": "Can you gift wrap this?",
+    "japanese": "ギフト包装できますか？",
+    "romaji": "Gifuto housou dekimasu ka?",
+    "category": "Shopping",
+    "difficulty": 3,
+    "context": "Japanese gift wrapping is beautiful"
+  },
+  {
+    "english": "This is a souvenir",
+    "japanese": "これはお土産です",
+    "romaji": "Kore wa omiyage desu",
+    "category": "Shopping",
+    "difficulty": 2,
+    "context": "Explaining purpose; may get nice wrapping"
+  },
+  {
+    "english": "Best seller / Popular item",
+    "japanese": "人気商品",
+    "romaji": "Ninki shouhin",
+    "category": "Shopping",
+    "difficulty": 3,
+    "context": "Asking about popular products"
+  },
+  {
+    "english": "Sale / Discount",
+    "japanese": "セール / 割引",
+    "romaji": "Seeru / Waribiki",
+    "category": "Shopping",
+    "difficulty": 2,
+    "context": "Looking for deals"
+  },
+  {
+    "english": "Is there a discount?",
+    "japanese": "割引はありますか？",
+    "romaji": "Waribiki wa arimasu ka?",
+    "category": "Shopping",
+    "difficulty": 2,
+    "context": "Asking about promotions"
+  },
+  {
+    "english": "I'm looking for...",
+    "japanese": "…を探しています",
+    "romaji": "...wo sagashite imasu",
+    "category": "Shopping",
+    "difficulty": 1,
+    "context": "Asking staff for help finding items"
+  },
+  {
+    "english": "Drugstore",
+    "japanese": "ドラッグストア",
+    "romaji": "Doraggu sutoa",
+    "category": "Shopping",
+    "difficulty": 1,
+    "context": "Matsumoto Kiyoshi, Sundrug, etc."
+  },
+  {
+    "english": "Convenience store",
+    "japanese": "コンビニ",
+    "romaji": "Konbini",
+    "category": "Shopping",
+    "difficulty": 1,
+    "context": "7-Eleven, Lawson, FamilyMart; open 24/7"
+  },
+  {
+    "english": "Department store",
+    "japanese": "デパート",
+    "romaji": "Depaato",
+    "category": "Shopping",
+    "difficulty": 2,
+    "context": "High-end shopping; great basement food halls"
+  },
+  {
+    "english": "Souvenir shop",
+    "japanese": "お土産屋",
+    "romaji": "Omiyageya",
+    "category": "Shopping",
+    "difficulty": 2,
+    "context": "Found at tourist spots and stations"
+  },
+  {
+    "english": "Bookstore",
+    "japanese": "本屋",
+    "romaji": "Honya",
+    "category": "Shopping",
+    "difficulty": 3,
+    "context": "For books, manga, stationery"
+  },
+  {
+    "english": "Can I return this?",
+    "japanese": "返品できますか？",
+    "romaji": "Henpin dekimasu ka?",
+    "category": "Shopping",
+    "difficulty": 3,
+    "context": "Return policies vary"
+  },
+  {
+    "english": "It's broken",
+    "japanese": "壊れています",
+    "romaji": "Kowarete imasu",
+    "category": "Shopping",
+    "difficulty": 2,
+    "context": "Reporting a defective item"
+  },
+  {
+    "english": "Do you have another one?",
+    "japanese": "別のはありますか？",
+    "romaji": "Betsu no wa arimasu ka?",
+    "category": "Shopping",
+    "difficulty": 2,
+    "context": "Asking for a replacement"
+  },
+  {
+    "english": "Where is the electronics section?",
+    "japanese": "電化製品売り場はどこですか？",
+    "romaji": "Denka seihin uriba wa doko desu ka?",
+    "category": "Shopping",
+    "difficulty": 3,
+    "context": "Navigating large stores"
+  },
+  {
+    "english": "I'll pay with IC card",
+    "japanese": "ICカードで払います",
+    "romaji": "IC kaado de haraimasu",
+    "category": "Shopping",
+    "difficulty": 2,
+    "context": "Paying with Suica/Pasmo"
+  },
+  {
+    "english": "One",
+    "japanese": "一",
+    "romaji": "Ichi",
+    "category": "Numbers & Money",
+    "difficulty": 1,
+    "context": "Number 1"
+  },
+  {
+    "english": "Two",
+    "japanese": "二",
+    "romaji": "Ni",
+    "category": "Numbers & Money",
+    "difficulty": 1,
+    "context": "Number 2"
+  },
+  {
+    "english": "Three",
+    "japanese": "三",
+    "romaji": "San",
+    "category": "Numbers & Money",
+    "difficulty": 1,
+    "context": "Number 3"
+  },
+  {
+    "english": "Four",
+    "japanese": "四",
+    "romaji": "Yon",
+    "category": "Numbers & Money",
+    "difficulty": 1,
+    "context": "Number 4; avoid 'shi' (sounds like death)"
+  },
+  {
+    "english": "Five",
+    "japanese": "五",
+    "romaji": "Go",
+    "category": "Numbers & Money",
+    "difficulty": 1,
+    "context": "Number 5"
+  },
+  {
+    "english": "Six",
+    "japanese": "六",
+    "romaji": "Roku",
+    "category": "Numbers & Money",
+    "difficulty": 1,
+    "context": "Number 6"
+  },
+  {
+    "english": "Seven",
+    "japanese": "七",
+    "romaji": "Nana",
+    "category": "Numbers & Money",
+    "difficulty": 1,
+    "context": "Number 7; 'shichi' is also used"
+  },
+  {
+    "english": "Eight",
+    "japanese": "八",
+    "romaji": "Hachi",
+    "category": "Numbers & Money",
+    "difficulty": 1,
+    "context": "Number 8"
+  },
+  {
+    "english": "Nine",
+    "japanese": "九",
+    "romaji": "Kyuu",
+    "category": "Numbers & Money",
+    "difficulty": 1,
+    "context": "Number 9; avoid 'ku' (sounds like suffering)"
+  },
+  {
+    "english": "Ten",
+    "japanese": "十",
+    "romaji": "Juu",
+    "category": "Numbers & Money",
+    "difficulty": 1,
+    "context": "Number 10"
+  },
+  {
+    "english": "Twenty",
+    "japanese": "二十",
+    "romaji": "Nijuu",
+    "category": "Numbers & Money",
+    "difficulty": 1,
+    "context": "Number 20"
+  },
+  {
+    "english": "Thirty",
+    "japanese": "三十",
+    "romaji": "Sanjuu",
+    "category": "Numbers & Money",
+    "difficulty": 2,
+    "context": "Number 30"
+  },
+  {
+    "english": "Fifty",
+    "japanese": "五十",
+    "romaji": "Gojuu",
+    "category": "Numbers & Money",
+    "difficulty": 2,
+    "context": "Number 50"
+  },
+  {
+    "english": "One hundred",
+    "japanese": "百",
+    "romaji": "Hyaku",
+    "category": "Numbers & Money",
+    "difficulty": 1,
+    "context": "Number 100"
+  },
+  {
+    "english": "Two hundred",
+    "japanese": "二百",
+    "romaji": "Nihyaku",
+    "category": "Numbers & Money",
+    "difficulty": 2,
+    "context": "Number 200"
+  },
+  {
+    "english": "Three hundred",
+    "japanese": "三百",
+    "romaji": "Sanbyaku",
+    "category": "Numbers & Money",
+    "difficulty": 2,
+    "context": "Number 300; note irregular reading"
+  },
+  {
+    "english": "Five hundred",
+    "japanese": "五百",
+    "romaji": "Gohyaku",
+    "category": "Numbers & Money",
+    "difficulty": 2,
+    "context": "Number 500"
+  },
+  {
+    "english": "One thousand",
+    "japanese": "千",
+    "romaji": "Sen",
+    "category": "Numbers & Money",
+    "difficulty": 1,
+    "context": "Number 1,000"
+  },
+  {
+    "english": "Three thousand",
+    "japanese": "三千",
+    "romaji": "Sanzen",
+    "category": "Numbers & Money",
+    "difficulty": 2,
+    "context": "Number 3,000; note irregular reading"
+  },
+  {
+    "english": "Five thousand",
+    "japanese": "五千",
+    "romaji": "Gosen",
+    "category": "Numbers & Money",
+    "difficulty": 2,
+    "context": "Number 5,000; common bill denomination"
+  },
+  {
+    "english": "Ten thousand",
+    "japanese": "一万",
+    "romaji": "Ichiman",
+    "category": "Numbers & Money",
+    "difficulty": 1,
+    "context": "Number 10,000; largest bill denomination"
+  },
+  {
+    "english": "How much?",
+    "japanese": "いくらですか？",
+    "romaji": "Ikura desu ka?",
+    "category": "Numbers & Money",
+    "difficulty": 1,
+    "context": "Asking the price"
+  },
+  {
+    "english": "Yen",
+    "japanese": "円",
+    "romaji": "En",
+    "category": "Numbers & Money",
+    "difficulty": 1,
+    "context": "Japanese currency"
+  },
+  {
+    "english": "Credit card",
+    "japanese": "クレジットカード",
+    "romaji": "Kurejitto kaado",
+    "category": "Numbers & Money",
+    "difficulty": 1,
+    "context": "Payment method"
+  },
+  {
+    "english": "Cash",
+    "japanese": "現金",
+    "romaji": "Genkin",
+    "category": "Numbers & Money",
+    "difficulty": 1,
+    "context": "Many places prefer or require cash"
+  },
+  {
+    "english": "Change (coins back)",
+    "japanese": "お釣り",
+    "romaji": "Otsuri",
+    "category": "Numbers & Money",
+    "difficulty": 2,
+    "context": "Change returned after payment"
+  },
+  {
+    "english": "Can I pay by credit card?",
+    "japanese": "クレジットカードで払えますか？",
+    "romaji": "Kurejitto kaado de haraemasu ka?",
+    "category": "Numbers & Money",
+    "difficulty": 1,
+    "context": "Checking payment method"
+  },
+  {
+    "english": "Where is an ATM?",
+    "japanese": "ATMはどこですか？",
+    "romaji": "ATM wa doko desu ka?",
+    "category": "Numbers & Money",
+    "difficulty": 1,
+    "context": "7-Eleven and post office ATMs work best"
+  },
+  {
+    "english": "Currency exchange",
+    "japanese": "両替",
+    "romaji": "Ryougae",
+    "category": "Numbers & Money",
+    "difficulty": 2,
+    "context": "Exchanging foreign currency for yen"
+  },
+  {
+    "english": "One hundred thousand",
+    "japanese": "十万",
+    "romaji": "Juuman",
+    "category": "Numbers & Money",
+    "difficulty": 3,
+    "context": "Number 100,000"
+  },
+  {
+    "english": "What time is it?",
+    "japanese": "今何時ですか？",
+    "romaji": "Ima nanji desu ka?",
+    "category": "Time & Dates",
+    "difficulty": 1,
+    "context": "Asking the current time"
+  },
+  {
+    "english": "Today",
+    "japanese": "今日",
+    "romaji": "Kyou",
+    "category": "Time & Dates",
+    "difficulty": 1,
+    "context": "Current day"
+  },
+  {
+    "english": "Tomorrow",
+    "japanese": "明日",
+    "romaji": "Ashita",
+    "category": "Time & Dates",
+    "difficulty": 1,
+    "context": "Next day"
+  },
+  {
+    "english": "Yesterday",
+    "japanese": "昨日",
+    "romaji": "Kinou",
+    "category": "Time & Dates",
+    "difficulty": 1,
+    "context": "Previous day"
+  },
+  {
+    "english": "Morning",
+    "japanese": "朝",
+    "romaji": "Asa",
+    "category": "Time & Dates",
+    "difficulty": 1,
+    "context": "Time of day"
+  },
+  {
+    "english": "Afternoon",
+    "japanese": "午後",
+    "romaji": "Gogo",
+    "category": "Time & Dates",
+    "difficulty": 1,
+    "context": "Time of day"
+  },
+  {
+    "english": "Evening",
+    "japanese": "夕方",
+    "romaji": "Yuugata",
+    "category": "Time & Dates",
+    "difficulty": 2,
+    "context": "Late afternoon to early evening"
+  },
+  {
+    "english": "Night",
+    "japanese": "夜",
+    "romaji": "Yoru",
+    "category": "Time & Dates",
+    "difficulty": 1,
+    "context": "Time of day"
+  },
+  {
+    "english": "Now",
+    "japanese": "今",
+    "romaji": "Ima",
+    "category": "Time & Dates",
+    "difficulty": 1,
+    "context": "Current moment"
+  },
+  {
+    "english": "Later",
+    "japanese": "後で",
+    "romaji": "Ato de",
+    "category": "Time & Dates",
+    "difficulty": 2,
+    "context": "At a future time"
+  },
+  {
+    "english": "Monday",
+    "japanese": "月曜日",
+    "romaji": "Getsuyoubi",
+    "category": "Time & Dates",
+    "difficulty": 2,
+    "context": "Day of week"
+  },
+  {
+    "english": "Tuesday",
+    "japanese": "火曜日",
+    "romaji": "Kayoubi",
+    "category": "Time & Dates",
+    "difficulty": 2,
+    "context": "Day of week"
+  },
+  {
+    "english": "Wednesday",
+    "japanese": "水曜日",
+    "romaji": "Suiyoubi",
+    "category": "Time & Dates",
+    "difficulty": 2,
+    "context": "Day of week"
+  },
+  {
+    "english": "Thursday",
+    "japanese": "木曜日",
+    "romaji": "Mokuyoubi",
+    "category": "Time & Dates",
+    "difficulty": 2,
+    "context": "Day of week"
+  },
+  {
+    "english": "Friday",
+    "japanese": "金曜日",
+    "romaji": "Kinyoubi",
+    "category": "Time & Dates",
+    "difficulty": 2,
+    "context": "Day of week"
+  },
+  {
+    "english": "Saturday",
+    "japanese": "土曜日",
+    "romaji": "Doyoubi",
+    "category": "Time & Dates",
+    "difficulty": 2,
+    "context": "Day of week"
+  },
+  {
+    "english": "Sunday",
+    "japanese": "日曜日",
+    "romaji": "Nichiyoubi",
+    "category": "Time & Dates",
+    "difficulty": 2,
+    "context": "Day of week"
+  },
+  {
+    "english": "[X] o'clock",
+    "japanese": "[X]時",
+    "romaji": "[X]-ji",
+    "category": "Time & Dates",
+    "difficulty": 1,
+    "context": "Telling time; replace [X] with number"
+  },
+  {
+    "english": "Half past",
+    "japanese": "半",
+    "romaji": "Han",
+    "category": "Time & Dates",
+    "difficulty": 2,
+    "context": "Add after the hour: 三時半 = 3:30"
+  },
+  {
+    "english": "AM",
+    "japanese": "午前",
+    "romaji": "Gozen",
+    "category": "Time & Dates",
+    "difficulty": 2,
+    "context": "Before noon"
+  },
+  {
+    "english": "PM",
+    "japanese": "午後",
+    "romaji": "Gogo",
+    "category": "Time & Dates",
+    "difficulty": 2,
+    "context": "After noon"
+  },
+  {
+    "english": "What time does it open?",
+    "japanese": "何時に開きますか？",
+    "romaji": "Nanji ni akimasu ka?",
+    "category": "Time & Dates",
+    "difficulty": 1,
+    "context": "Checking opening hours"
+  },
+  {
+    "english": "What time does it close?",
+    "japanese": "何時に閉まりますか？",
+    "romaji": "Nanji ni shimarimasu ka?",
+    "category": "Time & Dates",
+    "difficulty": 1,
+    "context": "Checking closing hours"
+  },
+  {
+    "english": "This week",
+    "japanese": "今週",
+    "romaji": "Konshuu",
+    "category": "Time & Dates",
+    "difficulty": 2,
+    "context": "Current week"
+  },
+  {
+    "english": "Next week",
+    "japanese": "来週",
+    "romaji": "Raishuu",
+    "category": "Time & Dates",
+    "difficulty": 2,
+    "context": "Following week"
+  },
+  {
+    "english": "This month",
+    "japanese": "今月",
+    "romaji": "Kongetsu",
+    "category": "Time & Dates",
+    "difficulty": 3,
+    "context": "Current month"
+  },
+  {
+    "english": "How long does it take?",
+    "japanese": "どのくらいかかりますか？",
+    "romaji": "Dono kurai kakarimasu ka?",
+    "category": "Time & Dates",
+    "difficulty": 1,
+    "context": "Asking about duration"
+  },
+  {
+    "english": "One hour",
+    "japanese": "一時間",
+    "romaji": "Ichijikan",
+    "category": "Time & Dates",
+    "difficulty": 1,
+    "context": "Duration of one hour"
+  },
+  {
+    "english": "Thirty minutes",
+    "japanese": "三十分",
+    "romaji": "Sanjuppun",
+    "category": "Time & Dates",
+    "difficulty": 1,
+    "context": "Duration of 30 minutes"
+  },
+  {
+    "english": "What day is today?",
+    "japanese": "今日は何曜日ですか？",
+    "romaji": "Kyou wa nan youbi desu ka?",
+    "category": "Time & Dates",
+    "difficulty": 2,
+    "context": "Asking the day of the week"
+  },
+  {
+    "english": "Help!",
+    "japanese": "助けて！",
+    "romaji": "Tasukete!",
+    "category": "Emergency & Health",
+    "difficulty": 1,
+    "context": "Urgent cry for help"
+  },
+  {
+    "english": "Please help me",
+    "japanese": "助けてください",
+    "romaji": "Tasukete kudasai",
+    "category": "Emergency & Health",
+    "difficulty": 1,
+    "context": "Polite request for help"
+  },
+  {
+    "english": "Call an ambulance!",
+    "japanese": "救急車を呼んでください！",
+    "romaji": "Kyuukyuusha wo yonde kudasai!",
+    "category": "Emergency & Health",
+    "difficulty": 1,
+    "context": "Emergency number: 119"
+  },
+  {
+    "english": "Call the police!",
+    "japanese": "警察を呼んでください！",
+    "romaji": "Keisatsu wo yonde kudasai!",
+    "category": "Emergency & Health",
+    "difficulty": 1,
+    "context": "Emergency number: 110"
+  },
+  {
+    "english": "Fire!",
+    "japanese": "火事だ！",
+    "romaji": "Kaji da!",
+    "category": "Emergency & Health",
+    "difficulty": 1,
+    "context": "Emergency number: 119"
+  },
+  {
+    "english": "Emergency",
+    "japanese": "緊急",
+    "romaji": "Kinkyuu",
+    "category": "Emergency & Health",
+    "difficulty": 1,
+    "context": "General emergency word"
+  },
+  {
+    "english": "Hospital",
+    "japanese": "病院",
+    "romaji": "Byouin",
+    "category": "Emergency & Health",
+    "difficulty": 1,
+    "context": "Medical facility"
+  },
+  {
+    "english": "Where is the nearest hospital?",
+    "japanese": "一番近い病院はどこですか？",
+    "romaji": "Ichiban chikai byouin wa doko desu ka?",
+    "category": "Emergency & Health",
+    "difficulty": 1,
+    "context": "Finding medical care"
+  },
+  {
+    "english": "Doctor",
+    "japanese": "医者",
+    "romaji": "Isha",
+    "category": "Emergency & Health",
+    "difficulty": 1,
+    "context": "Medical professional"
+  },
+  {
+    "english": "I need a doctor",
+    "japanese": "医者が必要です",
+    "romaji": "Isha ga hitsuyou desu",
+    "category": "Emergency & Health",
+    "difficulty": 1,
+    "context": "Requesting medical attention"
+  },
+  {
+    "english": "Pharmacy / Drugstore",
+    "japanese": "薬局",
+    "romaji": "Yakkyoku",
+    "category": "Emergency & Health",
+    "difficulty": 1,
+    "context": "Where to buy medicine"
+  },
+  {
+    "english": "Medicine",
+    "japanese": "薬",
+    "romaji": "Kusuri",
+    "category": "Emergency & Health",
+    "difficulty": 1,
+    "context": "General term for medication"
+  },
+  {
+    "english": "I don't feel well",
+    "japanese": "気分が悪いです",
+    "romaji": "Kibun ga warui desu",
+    "category": "Emergency & Health",
+    "difficulty": 1,
+    "context": "General feeling of illness"
+  },
+  {
+    "english": "I'm sick",
+    "japanese": "病気です",
+    "romaji": "Byouki desu",
+    "category": "Emergency & Health",
+    "difficulty": 1,
+    "context": "Stating you are ill"
+  },
+  {
+    "english": "I have a headache",
+    "japanese": "頭が痛いです",
+    "romaji": "Atama ga itai desu",
+    "category": "Emergency & Health",
+    "difficulty": 1,
+    "context": "Common ailment"
+  },
+  {
+    "english": "I have a stomachache",
+    "japanese": "お腹が痛いです",
+    "romaji": "Onaka ga itai desu",
+    "category": "Emergency & Health",
+    "difficulty": 1,
+    "context": "Common ailment"
+  },
+  {
+    "english": "I have a fever",
+    "japanese": "熱があります",
+    "romaji": "Netsu ga arimasu",
+    "category": "Emergency & Health",
+    "difficulty": 1,
+    "context": "Reporting a symptom"
+  },
+  {
+    "english": "I have a cold",
+    "japanese": "風邪をひきました",
+    "romaji": "Kaze wo hikimashita",
+    "category": "Emergency & Health",
+    "difficulty": 2,
+    "context": "Common illness"
+  },
+  {
+    "english": "Allergy",
+    "japanese": "アレルギー",
+    "romaji": "Arerugii",
+    "category": "Emergency & Health",
+    "difficulty": 1,
+    "context": "General allergy term"
+  },
+  {
+    "english": "I'm allergic to...",
+    "japanese": "…にアレルギーがあります",
+    "romaji": "...ni arerugii ga arimasu",
+    "category": "Emergency & Health",
+    "difficulty": 1,
+    "context": "Specifying allergies"
+  },
+  {
+    "english": "I lost my passport",
+    "japanese": "パスポートをなくしました",
+    "romaji": "Pasupooto wo nakushimashita",
+    "category": "Emergency & Health",
+    "difficulty": 1,
+    "context": "Contact embassy immediately"
+  },
+  {
+    "english": "I lost my wallet",
+    "japanese": "財布をなくしました",
+    "romaji": "Saifu wo nakushimashita",
+    "category": "Emergency & Health",
+    "difficulty": 1,
+    "context": "Report to police; kouban can help"
+  },
+  {
+    "english": "My bag was stolen",
+    "japanese": "カバンを盗まれました",
+    "romaji": "Kaban wo nusumaremashita",
+    "category": "Emergency & Health",
+    "difficulty": 1,
+    "context": "Report to police immediately"
+  },
+  {
+    "english": "Police box",
+    "japanese": "交番",
+    "romaji": "Kouban",
+    "category": "Emergency & Health",
+    "difficulty": 1,
+    "context": "Small police stations on street corners; very helpful"
+  },
+  {
+    "english": "Where is the nearest police box?",
+    "japanese": "一番近い交番はどこですか？",
+    "romaji": "Ichiban chikai kouban wa doko desu ka?",
+    "category": "Emergency & Health",
+    "difficulty": 1,
+    "context": "Kouban officers help with lost items and directions"
+  },
+  {
+    "english": "Embassy",
+    "japanese": "大使館",
+    "romaji": "Taishikan",
+    "category": "Emergency & Health",
+    "difficulty": 2,
+    "context": "Your country's embassy"
+  },
+  {
+    "english": "American embassy",
+    "japanese": "アメリカ大使館",
+    "romaji": "Amerika taishikan",
+    "category": "Emergency & Health",
+    "difficulty": 2,
+    "context": "Located in Tokyo near Tameike-Sanno station"
+  },
+  {
+    "english": "I have travel insurance",
+    "japanese": "旅行保険に入っています",
+    "romaji": "Ryokou hoken ni haitte imasu",
+    "category": "Emergency & Health",
+    "difficulty": 2,
+    "context": "Important for hospital visits"
+  },
+  {
+    "english": "Dentist",
+    "japanese": "歯医者",
+    "romaji": "Haisha",
+    "category": "Emergency & Health",
+    "difficulty": 2,
+    "context": "Dental care"
+  },
+  {
+    "english": "I have a toothache",
+    "japanese": "歯が痛いです",
+    "romaji": "Ha ga itai desu",
+    "category": "Emergency & Health",
+    "difficulty": 2,
+    "context": "Dental emergency"
+  },
+  {
+    "english": "It hurts here",
+    "japanese": "ここが痛いです",
+    "romaji": "Koko ga itai desu",
+    "category": "Emergency & Health",
+    "difficulty": 1,
+    "context": "Point to the painful area"
+  },
+  {
+    "english": "I'm injured",
+    "japanese": "怪我をしました",
+    "romaji": "Kega wo shimashita",
+    "category": "Emergency & Health",
+    "difficulty": 1,
+    "context": "Reporting an injury"
+  },
+  {
+    "english": "Earthquake",
+    "japanese": "地震",
+    "romaji": "Jishin",
+    "category": "Emergency & Health",
+    "difficulty": 1,
+    "context": "Japan has frequent earthquakes"
+  },
+  {
+    "english": "Evacuation area",
+    "japanese": "避難場所",
+    "romaji": "Hinan basho",
+    "category": "Emergency & Health",
+    "difficulty": 1,
+    "context": "Where to go during disasters"
+  },
+  {
+    "english": "I can't breathe",
+    "japanese": "息ができません",
+    "romaji": "Iki ga dekimasen",
+    "category": "Emergency & Health",
+    "difficulty": 1,
+    "context": "Serious medical emergency"
+  },
+  {
+    "english": "I'm diabetic",
+    "japanese": "糖尿病です",
+    "romaji": "Tounyoubyou desu",
+    "category": "Emergency & Health",
+    "difficulty": 2,
+    "context": "Important medical condition to communicate"
+  },
+  {
+    "english": "Pain killer",
+    "japanese": "鎮痛剤",
+    "romaji": "Chintsuuzai",
+    "category": "Emergency & Health",
+    "difficulty": 2,
+    "context": "Available at pharmacies"
+  },
+  {
+    "english": "Band-aid",
+    "japanese": "絆創膏",
+    "romaji": "Bansoukou",
+    "category": "Emergency & Health",
+    "difficulty": 2,
+    "context": "Available at any konbini or pharmacy"
+  },
+  {
+    "english": "I need my medication",
+    "japanese": "薬が必要です",
+    "romaji": "Kusuri ga hitsuyou desu",
+    "category": "Emergency & Health",
+    "difficulty": 1,
+    "context": "Urgent medication need"
+  },
+  {
+    "english": "Is there an English-speaking doctor?",
+    "japanese": "英語が話せる医者はいますか？",
+    "romaji": "Eigo ga hanaseru isha wa imasu ka?",
+    "category": "Emergency & Health",
+    "difficulty": 2,
+    "context": "Finding a doctor you can communicate with"
+  },
+  {
+    "english": "Do you have...?",
+    "japanese": "…はありますか？",
+    "romaji": "...wa arimasu ka?",
+    "category": "Common Questions",
+    "difficulty": 1,
+    "context": "Asking about availability"
+  },
+  {
+    "english": "Is there a...?",
+    "japanese": "…はありますか？",
+    "romaji": "...wa arimasu ka?",
+    "category": "Common Questions",
+    "difficulty": 1,
+    "context": "Asking if something exists nearby"
+  },
+  {
+    "english": "Can I...? / May I...?",
+    "japanese": "…してもいいですか？",
+    "romaji": "...shite mo ii desu ka?",
+    "category": "Common Questions",
+    "difficulty": 1,
+    "context": "Asking for permission"
+  },
+  {
+    "english": "What time...?",
+    "japanese": "何時に…？",
+    "romaji": "Nanji ni...?",
+    "category": "Common Questions",
+    "difficulty": 1,
+    "context": "Time-related questions"
+  },
+  {
+    "english": "How much...?",
+    "japanese": "いくら…？",
+    "romaji": "Ikura...?",
+    "category": "Common Questions",
+    "difficulty": 1,
+    "context": "Price-related questions"
+  },
+  {
+    "english": "How many...?",
+    "japanese": "いくつ…？",
+    "romaji": "Ikutsu...?",
+    "category": "Common Questions",
+    "difficulty": 2,
+    "context": "Quantity-related questions"
+  },
+  {
+    "english": "When...?",
+    "japanese": "いつ…？",
+    "romaji": "Itsu...?",
+    "category": "Common Questions",
+    "difficulty": 1,
+    "context": "Time-related questions"
+  },
+  {
+    "english": "Who...?",
+    "japanese": "誰…？",
+    "romaji": "Dare...?",
+    "category": "Common Questions",
+    "difficulty": 2,
+    "context": "Person-related questions"
+  },
+  {
+    "english": "What is this?",
+    "japanese": "これは何ですか？",
+    "romaji": "Kore wa nan desu ka?",
+    "category": "Common Questions",
+    "difficulty": 1,
+    "context": "Identifying unknown items"
+  },
+  {
+    "english": "Is it open today?",
+    "japanese": "今日は開いていますか？",
+    "romaji": "Kyou wa aite imasu ka?",
+    "category": "Common Questions",
+    "difficulty": 1,
+    "context": "Checking if a place is open"
+  },
+  {
+    "english": "Can I take a photo?",
+    "japanese": "写真を撮ってもいいですか？",
+    "romaji": "Shashin wo totte mo ii desu ka?",
+    "category": "Common Questions",
+    "difficulty": 1,
+    "context": "Always ask first, especially at temples"
+  },
+  {
+    "english": "Could you take my photo?",
+    "japanese": "写真を撮ってもらえますか？",
+    "romaji": "Shashin wo totte moraemasu ka?",
+    "category": "Common Questions",
+    "difficulty": 1,
+    "context": "Asking someone to photograph you"
+  },
+  {
+    "english": "Is there free Wi-Fi?",
+    "japanese": "無料Wi-Fiはありますか？",
+    "romaji": "Muryou waifai wa arimasu ka?",
+    "category": "Common Questions",
+    "difficulty": 1,
+    "context": "Finding internet access"
+  },
+  {
+    "english": "Do you have an English version?",
+    "japanese": "英語版はありますか？",
+    "romaji": "Eigoban wa arimasu ka?",
+    "category": "Common Questions",
+    "difficulty": 1,
+    "context": "For menus, guides, signs"
+  },
+  {
+    "english": "What does this mean?",
+    "japanese": "これはどういう意味ですか？",
+    "romaji": "Kore wa dou iu imi desu ka?",
+    "category": "Common Questions",
+    "difficulty": 2,
+    "context": "Understanding signs or words"
+  },
+  {
+    "english": "Is smoking allowed here?",
+    "japanese": "ここで喫煙できますか？",
+    "romaji": "Koko de kitsuen dekimasu ka?",
+    "category": "Common Questions",
+    "difficulty": 2,
+    "context": "Smoking is restricted in many areas"
+  },
+  {
+    "english": "Is there a restroom nearby?",
+    "japanese": "近くにトイレはありますか？",
+    "romaji": "Chikaku ni toire wa arimasu ka?",
+    "category": "Common Questions",
+    "difficulty": 1,
+    "context": "Finding facilities"
+  },
+  {
+    "english": "Can I use this?",
+    "japanese": "これを使ってもいいですか？",
+    "romaji": "Kore wo tsukatte mo ii desu ka?",
+    "category": "Common Questions",
+    "difficulty": 2,
+    "context": "Asking permission to use something"
+  },
+  {
+    "english": "Is it free?",
+    "japanese": "無料ですか？",
+    "romaji": "Muryou desu ka?",
+    "category": "Common Questions",
+    "difficulty": 1,
+    "context": "Checking if there's a charge"
+  },
+  {
+    "english": "What is the admission fee?",
+    "japanese": "入場料はいくらですか？",
+    "romaji": "Nyuujouryou wa ikura desu ka?",
+    "category": "Common Questions",
+    "difficulty": 2,
+    "context": "At museums, temples, attractions"
+  },
+  {
+    "english": "Is there a student discount?",
+    "japanese": "学生割引はありますか？",
+    "romaji": "Gakusei waribiki wa arimasu ka?",
+    "category": "Common Questions",
+    "difficulty": 3,
+    "context": "For student travelers"
+  },
+  {
+    "english": "How do I use this?",
+    "japanese": "これはどうやって使いますか？",
+    "romaji": "Kore wa douyatte tsukaimasu ka?",
+    "category": "Common Questions",
+    "difficulty": 2,
+    "context": "For unfamiliar machines or items"
+  },
+  {
+    "english": "Can I sit here?",
+    "japanese": "ここに座ってもいいですか？",
+    "romaji": "Koko ni suwatte mo ii desu ka?",
+    "category": "Common Questions",
+    "difficulty": 1,
+    "context": "Asking if a seat is available"
+  },
+  {
+    "english": "Is it included?",
+    "japanese": "含まれていますか？",
+    "romaji": "Fukumarete imasu ka?",
+    "category": "Common Questions",
+    "difficulty": 2,
+    "context": "Asking if something is part of a package"
+  },
+  {
+    "english": "Do I need a reservation?",
+    "japanese": "予約は必要ですか？",
+    "romaji": "Yoyaku wa hitsuyou desu ka?",
+    "category": "Common Questions",
+    "difficulty": 1,
+    "context": "Checking if booking is required"
+  },
+  {
+    "english": "Can you help me?",
+    "japanese": "手伝ってもらえますか？",
+    "romaji": "Tetsudatte moraemasu ka?",
+    "category": "Common Questions",
+    "difficulty": 1,
+    "context": "General request for assistance"
+  },
+  {
+    "english": "What is that?",
+    "japanese": "あれは何ですか？",
+    "romaji": "Are wa nan desu ka?",
+    "category": "Common Questions",
+    "difficulty": 2,
+    "context": "Identifying something at a distance"
+  },
+  {
+    "english": "Is there an English guide?",
+    "japanese": "英語のガイドはありますか？",
+    "romaji": "Eigo no gaido wa arimasu ka?",
+    "category": "Common Questions",
+    "difficulty": 2,
+    "context": "At tourist attractions"
+  },
+  {
+    "english": "Where can I buy tickets?",
+    "japanese": "チケットはどこで買えますか？",
+    "romaji": "Chiketto wa doko de kaemasu ka?",
+    "category": "Common Questions",
+    "difficulty": 1,
+    "context": "Finding ticket counters"
+  },
+  {
+    "english": "Is there a waiting list?",
+    "japanese": "ウェイティングリストはありますか？",
+    "romaji": "Weitingu risuto wa arimasu ka?",
+    "category": "Common Questions",
+    "difficulty": 3,
+    "context": "For popular restaurants"
+  },
+  {
+    "english": "Excuse me (entering/leaving)",
+    "japanese": "失礼します",
+    "romaji": "Shitsurei shimasu",
+    "category": "Polite Expressions",
+    "difficulty": 1,
+    "context": "When entering or leaving a room formally"
+  },
+  {
+    "english": "I'm sorry for the trouble",
+    "japanese": "ご迷惑をおかけしてすみません",
+    "romaji": "Gomeiwaku wo okake shite sumimasen",
+    "category": "Polite Expressions",
+    "difficulty": 3,
+    "context": "Deep apology for causing inconvenience"
+  },
+  {
+    "english": "Thank you for your kindness",
+    "japanese": "ご親切にありがとうございます",
+    "romaji": "Goshinsetsu ni arigatou gozaimasu",
+    "category": "Polite Expressions",
+    "difficulty": 2,
+    "context": "Expressing gratitude for help received"
+  },
+  {
+    "english": "After you",
+    "japanese": "お先にどうぞ",
+    "romaji": "Osaki ni douzo",
+    "category": "Polite Expressions",
+    "difficulty": 2,
+    "context": "Letting someone go first"
+  },
+  {
+    "english": "Sorry for going first",
+    "japanese": "お先に失礼します",
+    "romaji": "Osaki ni shitsurei shimasu",
+    "category": "Polite Expressions",
+    "difficulty": 2,
+    "context": "When leaving before others, e.g., work"
+  },
+  {
+    "english": "Please take care of yourself",
+    "japanese": "お体に気をつけてください",
+    "romaji": "Okarada ni ki wo tsukete kudasai",
+    "category": "Polite Expressions",
+    "difficulty": 3,
+    "context": "Wishing someone good health"
+  },
+  {
+    "english": "I'm grateful",
+    "japanese": "感謝しています",
+    "romaji": "Kansha shite imasu",
+    "category": "Polite Expressions",
+    "difficulty": 3,
+    "context": "Deep expression of gratitude"
+  },
+  {
+    "english": "I'm sorry to bother you",
+    "japanese": "お手数をおかけします",
+    "romaji": "Otesuu wo okake shimasu",
+    "category": "Polite Expressions",
+    "difficulty": 3,
+    "context": "Before asking for a favor"
+  },
+  {
+    "english": "Pardon the intrusion",
+    "japanese": "お邪魔します",
+    "romaji": "Ojama shimasu",
+    "category": "Polite Expressions",
+    "difficulty": 2,
+    "context": "When entering someone's home or office"
+  },
+  {
+    "english": "I learned a lot",
+    "japanese": "とても勉強になりました",
+    "romaji": "Totemo benkyou ni narimashita",
+    "category": "Polite Expressions",
+    "difficulty": 3,
+    "context": "Showing appreciation after a tour or lesson"
+  },
+  {
+    "english": "This is beautiful",
+    "japanese": "きれいですね",
+    "romaji": "Kirei desu ne",
+    "category": "Polite Expressions",
+    "difficulty": 1,
+    "context": "Complimenting scenery, crafts, temples"
+  },
+  {
+    "english": "Wonderful! / Amazing!",
+    "japanese": "素晴らしい！",
+    "romaji": "Subarashii!",
+    "category": "Polite Expressions",
+    "difficulty": 2,
+    "context": "Expressing admiration"
+  },
+  {
+    "english": "Is it OK to enter?",
+    "japanese": "入ってもいいですか？",
+    "romaji": "Haitte mo ii desu ka?",
+    "category": "Polite Expressions",
+    "difficulty": 1,
+    "context": "Asking permission before entering"
+  },
+  {
+    "english": "Please remove your shoes",
+    "japanese": "靴を脱いでください",
+    "romaji": "Kutsu wo nuide kudasai",
+    "category": "Polite Expressions",
+    "difficulty": 1,
+    "context": "You'll see or hear this at temples, homes, some restaurants"
+  },
+  {
+    "english": "I'll be careful",
+    "japanese": "気をつけます",
+    "romaji": "Ki wo tsukemasu",
+    "category": "Polite Expressions",
+    "difficulty": 2,
+    "context": "Promising to be mindful"
+  },
+  {
+    "english": "Quiet, please (at temples)",
+    "japanese": "お静かにお願いします",
+    "romaji": "Oshizuka ni onegai shimasu",
+    "category": "Polite Expressions",
+    "difficulty": 2,
+    "context": "Temple and shrine etiquette"
+  },
+  {
+    "english": "Is photography allowed?",
+    "japanese": "撮影してもいいですか？",
+    "romaji": "Satsuei shite mo ii desu ka?",
+    "category": "Polite Expressions",
+    "difficulty": 1,
+    "context": "Always ask at temples and museums"
+  },
+  {
+    "english": "No photography",
+    "japanese": "撮影禁止",
+    "romaji": "Satsuei kinshi",
+    "category": "Polite Expressions",
+    "difficulty": 2,
+    "context": "You'll see this sign; respect it"
+  },
+  {
+    "english": "Please don't touch",
+    "japanese": "触らないでください",
+    "romaji": "Sawaranaide kudasai",
+    "category": "Polite Expressions",
+    "difficulty": 2,
+    "context": "At museums and cultural sites"
+  },
+  {
+    "english": "Sorry to have kept you waiting",
+    "japanese": "お待たせしてすみません",
+    "romaji": "Omatase shite sumimasen",
+    "category": "Polite Expressions",
+    "difficulty": 3,
+    "context": "Apologizing for making someone wait"
+  },
+  {
+    "english": "Happy New Year",
+    "japanese": "あけましておめでとうございます",
+    "romaji": "Akemashite omedetou gozaimasu",
+    "category": "Polite Expressions",
+    "difficulty": 3,
+    "context": "New Year greeting; biggest holiday in Japan"
+  },
+  {
+    "english": "Thank you for everything",
+    "japanese": "色々とありがとうございました",
+    "romaji": "Iroiro to arigatou gozaimashita",
+    "category": "Polite Expressions",
+    "difficulty": 2,
+    "context": "Heartfelt thanks at departure"
+  },
+  {
+    "english": "It was delicious (to chef/host)",
+    "japanese": "とてもおいしかったです",
+    "romaji": "Totemo oishikatta desu",
+    "category": "Polite Expressions",
+    "difficulty": 1,
+    "context": "Complimenting after a meal"
+  },
+  {
+    "english": "Please forgive my rudeness",
+    "japanese": "失礼いたしました",
+    "romaji": "Shitsurei itashimashita",
+    "category": "Polite Expressions",
+    "difficulty": 4,
+    "context": "Very formal apology"
+  },
+  {
+    "english": "I humbly request your favor",
+    "japanese": "お願いいたします",
+    "romaji": "Onegai itashimasu",
+    "category": "Polite Expressions",
+    "difficulty": 4,
+    "context": "Very polite form of onegai shimasu"
+  },
+  {
+    "english": "I'm not worthy (humble)",
+    "japanese": "とんでもないです",
+    "romaji": "Tondemonai desu",
+    "category": "Polite Expressions",
+    "difficulty": 3,
+    "context": "Humbly deflecting a compliment"
+  },
+  {
+    "english": "Bon voyage / Have a safe trip",
+    "japanese": "いってらっしゃい",
+    "romaji": "Itterasshai",
+    "category": "Polite Expressions",
+    "difficulty": 2,
+    "context": "Said to someone leaving (they say ittekimasu)"
+  },
+  {
+    "english": "I'm heading out",
+    "japanese": "行ってきます",
+    "romaji": "Ittekimasu",
+    "category": "Polite Expressions",
+    "difficulty": 2,
+    "context": "Said when leaving; paired with itterasshai"
+  },
+  {
+    "english": "I'm home / I'm back",
+    "japanese": "ただいま",
+    "romaji": "Tadaima",
+    "category": "Polite Expressions",
+    "difficulty": 2,
+    "context": "Said when returning; response is okaerinasai"
+  },
+  {
+    "english": "Welcome home / Welcome back",
+    "japanese": "おかえりなさい",
+    "romaji": "Okaerinasai",
+    "category": "Polite Expressions",
+    "difficulty": 2,
+    "context": "Response to tadaima"
+  },
+  {
+    "english": "Wi-Fi",
+    "japanese": "Wi-Fi / ワイファイ",
+    "romaji": "Waifai",
+    "category": "Technology & Communication",
+    "difficulty": 1,
+    "context": "Internet connectivity"
+  },
+  {
+    "english": "Is there free Wi-Fi here?",
+    "japanese": "ここに無料Wi-Fiはありますか？",
+    "romaji": "Koko ni muryou waifai wa arimasu ka?",
+    "category": "Technology & Communication",
+    "difficulty": 1,
+    "context": "Finding internet access"
+  },
+  {
+    "english": "What's the Wi-Fi password?",
+    "japanese": "Wi-Fiのパスワードは何ですか？",
+    "romaji": "Waifai no pasuwaado wa nan desu ka?",
+    "category": "Technology & Communication",
+    "difficulty": 1,
+    "context": "Getting Wi-Fi access"
+  },
+  {
+    "english": "Can I charge my phone here?",
+    "japanese": "ここで携帯を充電できますか？",
+    "romaji": "Koko de keitai wo juuden dekimasu ka?",
+    "category": "Technology & Communication",
+    "difficulty": 1,
+    "context": "Finding charging spots"
+  },
+  {
+    "english": "Power outlet",
+    "japanese": "コンセント",
+    "romaji": "Konsento",
+    "category": "Technology & Communication",
+    "difficulty": 1,
+    "context": "Japanese word for electrical outlet"
+  },
+  {
+    "english": "Where is the outlet?",
+    "japanese": "コンセントはどこですか？",
+    "romaji": "Konsento wa doko desu ka?",
+    "category": "Technology & Communication",
+    "difficulty": 1,
+    "context": "Finding a place to plug in"
+  },
+  {
+    "english": "Do you have a phone charger?",
+    "japanese": "携帯の充電器はありますか？",
+    "romaji": "Keitai no juudenki wa arimasu ka?",
+    "category": "Technology & Communication",
+    "difficulty": 2,
+    "context": "Borrowing a charger"
+  },
+  {
+    "english": "Cell phone",
+    "japanese": "携帯電話",
+    "romaji": "Keitai denwa",
+    "category": "Technology & Communication",
+    "difficulty": 2,
+    "context": "General term for mobile phone"
+  },
+  {
+    "english": "My phone isn't working",
+    "japanese": "携帯が動きません",
+    "romaji": "Keitai ga ugokimasen",
+    "category": "Technology & Communication",
+    "difficulty": 2,
+    "context": "Phone trouble"
+  },
+  {
+    "english": "SIM card",
+    "japanese": "SIMカード",
+    "romaji": "SIM kaado",
+    "category": "Technology & Communication",
+    "difficulty": 2,
+    "context": "Tourist SIM cards available at airports"
+  },
+  {
+    "english": "Can I buy a SIM card?",
+    "japanese": "SIMカードを買えますか？",
+    "romaji": "SIM kaado wo kaemasu ka?",
+    "category": "Technology & Communication",
+    "difficulty": 2,
+    "context": "Getting local data access"
+  },
+  {
+    "english": "Internet",
+    "japanese": "インターネット",
+    "romaji": "Intaanetto",
+    "category": "Technology & Communication",
+    "difficulty": 2,
+    "context": "General internet reference"
+  },
+  {
+    "english": "Email",
+    "japanese": "メール",
+    "romaji": "Meeru",
+    "category": "Technology & Communication",
+    "difficulty": 2,
+    "context": "Electronic mail"
+  },
+  {
+    "english": "Pocket Wi-Fi",
+    "japanese": "ポケットWi-Fi",
+    "romaji": "Poketto waifai",
+    "category": "Technology & Communication",
+    "difficulty": 2,
+    "context": "Portable Wi-Fi device; popular rental for tourists"
+  },
+  {
+    "english": "Power adapter",
+    "japanese": "変換プラグ",
+    "romaji": "Henkan puragu",
+    "category": "Technology & Communication",
+    "difficulty": 2,
+    "context": "Japan uses Type A plugs (same as US)"
+  },
+  {
+    "english": "Do you have a power adapter?",
+    "japanese": "変換プラグはありますか？",
+    "romaji": "Henkan puragu wa arimasu ka?",
+    "category": "Technology & Communication",
+    "difficulty": 2,
+    "context": "US plugs work in Japan without adapter"
+  },
+  {
+    "english": "Battery",
+    "japanese": "バッテリー / 電池",
+    "romaji": "Batterii / Denchi",
+    "category": "Technology & Communication",
+    "difficulty": 2,
+    "context": "Power source"
+  },
+  {
+    "english": "My battery is dead",
+    "japanese": "バッテリーが切れました",
+    "romaji": "Batterii ga kiremashita",
+    "category": "Technology & Communication",
+    "difficulty": 2,
+    "context": "Phone or device out of power"
+  },
+  {
+    "english": "Translation app",
+    "japanese": "翻訳アプリ",
+    "romaji": "Honyaku apuri",
+    "category": "Technology & Communication",
+    "difficulty": 2,
+    "context": "Google Translate works well with camera"
+  },
+  {
+    "english": "Can I use my phone here?",
+    "japanese": "ここで携帯を使ってもいいですか？",
+    "romaji": "Koko de keitai wo tsukatte mo ii desu ka?",
+    "category": "Technology & Communication",
+    "difficulty": 2,
+    "context": "Some places restrict phone use"
+  },
+  {
+    "english": "It's hot",
+    "japanese": "暑いですね",
+    "romaji": "Atsui desu ne",
+    "category": "Weather & Small Talk",
+    "difficulty": 1,
+    "context": "Summer small talk; adds 'ne' for agreement"
+  },
+  {
+    "english": "It's cold",
+    "japanese": "寒いですね",
+    "romaji": "Samui desu ne",
+    "category": "Weather & Small Talk",
+    "difficulty": 1,
+    "context": "Winter small talk"
+  },
+  {
+    "english": "It's raining",
+    "japanese": "雨が降っています",
+    "romaji": "Ame ga futte imasu",
+    "category": "Weather & Small Talk",
+    "difficulty": 1,
+    "context": "Weather observation"
+  },
+  {
+    "english": "Beautiful weather today",
+    "japanese": "いい天気ですね",
+    "romaji": "Ii tenki desu ne",
+    "category": "Weather & Small Talk",
+    "difficulty": 1,
+    "context": "Common conversation starter"
+  },
+  {
+    "english": "Will it rain tomorrow?",
+    "japanese": "明日は雨ですか？",
+    "romaji": "Ashita wa ame desu ka?",
+    "category": "Weather & Small Talk",
+    "difficulty": 2,
+    "context": "Planning for weather"
+  },
+  {
+    "english": "Umbrella",
+    "japanese": "傘",
+    "romaji": "Kasa",
+    "category": "Weather & Small Talk",
+    "difficulty": 1,
+    "context": "Essential item; clear umbrellas sold at konbini"
+  },
+  {
+    "english": "Do you have an umbrella?",
+    "japanese": "傘はありますか？",
+    "romaji": "Kasa wa arimasu ka?",
+    "category": "Weather & Small Talk",
+    "difficulty": 2,
+    "context": "Buying at convenience store"
+  },
+  {
+    "english": "Cherry blossoms",
+    "japanese": "桜",
+    "romaji": "Sakura",
+    "category": "Weather & Small Talk",
+    "difficulty": 1,
+    "context": "Iconic spring symbol; late March to mid-April"
+  },
+  {
+    "english": "The cherry blossoms are beautiful",
+    "japanese": "桜がきれいですね",
+    "romaji": "Sakura ga kirei desu ne",
+    "category": "Weather & Small Talk",
+    "difficulty": 1,
+    "context": "Great seasonal compliment during spring"
+  },
+  {
+    "english": "Autumn leaves",
+    "japanese": "紅葉",
+    "romaji": "Kouyou",
+    "category": "Weather & Small Talk",
+    "difficulty": 2,
+    "context": "Beautiful in Kyoto; October to December"
+  },
+  {
+    "english": "Snow",
+    "japanese": "雪",
+    "romaji": "Yuki",
+    "category": "Weather & Small Talk",
+    "difficulty": 2,
+    "context": "Winter weather"
+  },
+  {
+    "english": "Typhoon",
+    "japanese": "台風",
+    "romaji": "Taifuu",
+    "category": "Weather & Small Talk",
+    "difficulty": 2,
+    "context": "Common in late summer/early fall; check warnings"
+  },
+  {
+    "english": "Is there a typhoon coming?",
+    "japanese": "台風が来ていますか？",
+    "romaji": "Taifuu ga kite imasu ka?",
+    "category": "Weather & Small Talk",
+    "difficulty": 2,
+    "context": "Safety awareness during typhoon season"
+  },
+  {
+    "english": "It's humid",
+    "japanese": "蒸し暑いですね",
+    "romaji": "Mushiatsui desu ne",
+    "category": "Weather & Small Talk",
+    "difficulty": 2,
+    "context": "Very common in Japanese summer"
+  },
+  {
+    "english": "It's cool and refreshing",
+    "japanese": "涼しいですね",
+    "romaji": "Suzushii desu ne",
+    "category": "Weather & Small Talk",
+    "difficulty": 2,
+    "context": "Pleasant cooler weather"
+  },
+  {
+    "english": "It's warm",
+    "japanese": "暖かいですね",
+    "romaji": "Atatakai desu ne",
+    "category": "Weather & Small Talk",
+    "difficulty": 2,
+    "context": "Pleasantly warm weather"
+  },
+  {
+    "english": "Japan is a beautiful country",
+    "japanese": "日本は美しい国ですね",
+    "romaji": "Nihon wa utsukushii kuni desu ne",
+    "category": "Weather & Small Talk",
+    "difficulty": 2,
+    "context": "Sincere compliment; much appreciated"
+  },
+  {
+    "english": "The food is delicious",
+    "japanese": "料理がおいしいです",
+    "romaji": "Ryouri ga oishii desu",
+    "category": "Weather & Small Talk",
+    "difficulty": 1,
+    "context": "Complimenting Japanese cuisine"
+  },
+  {
+    "english": "I love Japanese food",
+    "japanese": "日本料理が大好きです",
+    "romaji": "Nihon ryouri ga daisuki desu",
+    "category": "Weather & Small Talk",
+    "difficulty": 2,
+    "context": "Great conversation topic"
+  },
+  {
+    "english": "What season is best to visit?",
+    "japanese": "どの季節が一番おすすめですか？",
+    "romaji": "Dono kisetsu ga ichiban osusume desu ka?",
+    "category": "Weather & Small Talk",
+    "difficulty": 3,
+    "context": "Asking locals for travel advice"
+  }
+]
